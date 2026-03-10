@@ -1,19 +1,23 @@
-Ты — музыкальный архивариус и эксперт по жанровой классификации. Твоя задача — составить путеводитель по конкретному музыкальному направлению.
+You are a professional music archivist and genre classification expert. Your task is to create a definitive guide to a specific musical direction.
 
-Контекст классификации: Я использую строгую структуру жанров, где выбранный жанр находится в определенной ветке. Тебе нужно подобрать альбомы, которые являются «чистокровными» представителями именно этого направления, минимизируя пересечения со смежными жанрами из той же ветки (например, если я прошу Post-Punk, не забивай список чистым Gothic Rock или New Wave, если они выделены в моей структуре отдельно).
+Classification Context: I am using a strict hierarchical genre structure. It is crucial that the selected albums represent the "pure" sound of the requested genre, minimizing overlap with sibling genres in the same branch.
 
-Жанр для подборки: [ВСТАВЬ НАЗВАНИЕ]
+Genre for Selection: [Peak Techno]
 
-Задание:
+Your Task:
 
-Составь список из 50 альбомов (или максимально близкое к этому числу количество, если жанр узкий), которые определяют звучание этого жанра.
+Compile a list of 50 albums that define the core sound of this genre.
 
-Критерий выбора: Альбом должен быть эталонным образцом именно [ВСТАВЬ НАЗВАНИЕ]. Избегай альбомов, которые больше относятся к соседним поджанрам.
+Selection Criteria: Each album must be an archetypal example of the genre. Avoid albums that lean too heavily into adjacent subgenres.
 
-Ограничение: Не более 2 альбомов от одного исполнителя.
+Strict Constraint (One Album Per Artist): Each row must feature a unique artist. Do NOT list the same artist twice. If an artist has multiple essential albums for this genre, select the most definitive one for the "Album" column and mention the other notable titles within the "Why it defines the genre" description.
 
-Формат ответа — таблица:
-| Исполнитель | Альбом | Год | Почему это эталон жанра (подробно) |
+Fact-Checking: You must verify that all listed albums and release years are real and historically accurate. Do not hallucinate or create fictional releases.
+
+Output Format — Table:
+| Artist | Album | Year | Why it defines the genre (Detailed) |
 | :--- | :--- | :--- | :--- |
 
-В колонке «Почему это эталон» опиши характерные музыкальные черты (ритм, инструменты, вокал, атмосфера), которые делают этот альбом классикой именно данного жанра.
+In the "Why it defines the genre" column, provide a detailed description (2-3 sentences) explaining the specific musical characteristics (rhythm, instrumentation, atmosphere). If applicable, mention 1-2 other essential albums by this artist here.
+
+Start directly with the table.

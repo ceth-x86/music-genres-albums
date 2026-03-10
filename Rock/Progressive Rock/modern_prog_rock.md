@@ -1,0 +1,104 @@
+# Modern Prog Rock
+
+| Artist | Album | Year | Why it defines the genre |
+| :--- | :--- | :--- | :--- |
+| Porcupine Tree | In Absentia | 2002 | This album perfectly balances heavy riffs, atmospheric soundscapes, and pop-sensible melodies, marking the transition from space rock to a modern, metal-edged sound. It remains a blueprint for 21st-century prog production; other essentials include Fear of a Blank Planet and Deadwing. |
+| The Mars Volta | De-Loused in the Comatorium | 2003 | A frenetic explosion of Latin-infused rhythms, punk energy, and sprawling psychedelic song structures that redefined "progressive" for a new generation. Omar Rodríguez-López's chaotic guitar work and Cedric Bixler-Zavala's high-tenor vocals are further explored on Frances the Mute. |
+| Riverside | Second Life Syndrome | 2005 | This Polish quartet blends melancholic atmospheres with heavy, driving basslines and intricate melodic interplay. It defines the emotional depth and dynamic contrast of modern prog; see also Rapid Eye Movement and Anno Domini High Definition. |
+| The Pineapple Thief | Your Wilderness | 2016 | Characterized by its sophisticated songwriting, crystalline production, and the intricate drumming of Gavin Harrison, it exemplifies the "song-oriented" side of modern prog. Other notable works include Dissolution and Variations on a Dream. |
+| Gazpacho | Night | 2007 | An art-rock masterpiece that uses cinematic textures, violin, and haunting vocals to create a continuous, immersive narrative experience. Their unique atmospheric approach is also heard on Tick Tock and March of Ghosts. |
+| Haken | The Mountain | 2013 | Blending 70s keyboard flourishes with 80s vocal harmonies and modern djent-adjacent heaviness, this album showcases extreme technical proficiency and quirky transitions. Their evolution continues on Affinity and Vector. |
+| Big Big Train | The English Electric: Full Power | 2013 | Representing the "pastoral" side of modern prog, this group uses brass, flute, and lush vocal harmonies to tell tales of British history and folklore. English Electric Part One and Folklore are equally definitive. |
+| Steven Wilson | The Raven That Refused to Sing (And Other Stories) | 2013 | A masterclass in vintage production values applied to modern storytelling, featuring an elite band of jazz-fusion and rock virtuosos. Wilson's solo career also peaks with Hand. Cannot. Erase. |
+| Anathema | Weather Systems | 2012 | Shifting from their metal roots into transcendent, orchestral-driven prog, this album focuses on repetitive, building cycles of piano and vocal crescendos. We're Here Because We're Here is also a critical modern touchstone. |
+| Frost* | Milliontown | 2006 | A hyper-energetic fusion of pop sensibilities, high-tech synthesizers, and complex instrumental passages that redefined "Neo-Prog" for the modern era. Experiments in Mass Appeal and Day and Age are also essential listening. |
+| Leprous | Malina | 2017 | Known for Einar Solberg's soaring falsetto and the band's shift toward staccato rhythms and cello-driven textures, this album bridges the gap between metal and art-rock. The Congregation and Pitfalls are also core to their sound. |
+| Spock's Beard | Snow | 2002 | A monumental double-concept album that showcases intricate vocal counterpoint, Mellotron textures, and classic Hammond B3 organ runs. Other highlights from their discography include V and The Light. |
+| Flower Kings | Unfold the Future | 2002 | This Swedish powerhouse blends jazz-fusion, symphonic rock, and whimsical lyrics into a sprawling, multi-disc experience. Their expansive sound is also captured on Stardust We Are and Banks of Eden. |
+| Transatlantic | The Whirlwind | 2009 | As a "supergroup," they define the modern "epic" with this single 77-minute track divided into movements, blending vintage 70s worship with modern power. SMPT:e and Bridge Across Forever are foundational. |
+| Beardfish | Destined Solitaire | 2009 | Combining Zappa-esque humor with complex 70s-style prog, this album features heavy organ work and nimble, jazzy rhythmic shifts. Sleeping in Traffic: Part Two is another essential record. |
+| Pure Reason Revolution | The Dark Third | 2006 | A unique blend of Pink Floyd-style atmospherics, vocal harmonies reminiscent of The Beach Boys, and heavy industrial electronic beats. Their later evolution is heard on Eupnea. |
+| Karnivool | Sound Awake | 2009 | An Australian landmark of rhythmic complexity, utilizing polyrhythms and baritone guitars to create a heavy yet melodic "alternative-prog" sound. Themata and Asymmetry are also highly influential. |
+| Pain of Salvation | Remedy Lane | 2002 | A deeply emotional and rhythmically complex concept album that explores personal trauma through intricate guitar work and dramatic vocal delivery. The Perfect Element, Pt. I is another core title. |
+| Bent Knee | Land Animal | 2017 | Defining "avant-pop prog," this album features Courtney Swain's incredible vocal range and a penchant for jarring, non-linear song structures. Say So and Shiny Eyed Babies are equally essential. |
+| Wobbler | From Silence to Somewhere | 2017 | While heavily inspired by the 70s, their modern production and dense, aggressive arrangements of flute, Rickenbacker bass, and keyboards define the "Retro-Prog" revival. Rites at Dawn is also a classic. |
+| IQ | The Road of Bones | 2014 | This album showcases a darker, modern edge to Neo-Prog, featuring haunting atmosphere, heavy synth pads, and Peter Nicholls' emotive vocals. Subterranea and Resistance are other must-haves. |
+| The Dear Hunter | Act IV: Rebirth in Reprise | 2015 | Melding theatrical orchestrations, indie rock, and complex concept-driven storytelling, this album is a pinnacle of modern symphonic prog. Act II and Act V are also essential chapters. |
+| Oceansize | Frames | 2007 | A dense, layered masterpiece of "heavy-prog" that utilizes three guitars to create complex, interlocking patterns and massive swells. Effloresce and Self Preserved While the Bodies Float Up are also vital. |
+| Agent Fresco | Destrier | 2015 | This Icelandic band combines math-rock rhythmic shifts, delicate piano melodies, and aggressive vocal bursts to create a highly unique modern sound. A Long Time Listening is their other major work. |
+| Caligula's Horse | Bloom | 2015 | Australian prog that focuses on soaring melodies, intricate clean-tone guitar tapping, and powerful, rhythmic drumming. In Contact and Rise Radiant further define their polished sound. |
+| Threshold | March of Progress | 2012 | Combining heavy riffs with soaring AOR-style choruses and intricate keyboard solos, they define the more melodic side of modern prog. Subsurface and Dividing Lines are also noteworthy. |
+| Marillion | Marbles | 2004 | The pioneers of the modern independent model, this album features atmospheric, slow-burn epics and Steve Hogarth's soulful delivery. Sounds That Can't Be Made and F.E.A.R. are other modern highlights. |
+| TesseracT | Altered State | 2013 | While often associated with djent, the lush ambient textures, clean vocal melodies, and odd-meter grooves on this album are archetypal modern prog. One and Sonder are also essential. |
+| Eisley | Currents | 2013 | Though bordering on indie, the complex vocal harmonies and dreamlike, whimsical song structures place them firmly in the "art-prog" camp. Room Noises is their other definitive work. |
+| Airbag | All Rights Removed | 2011 | A Norwegian band that heavily utilizes Gilmour-esque guitar textures and melancholic soundscapes to create a modern take on atmospheric prog. The Greatest Show on Earth is also highly recommended. |
+| Thank You Scientist | Stranger Heads Prevail | 2016 | A high-energy blend of prog-metal, jazz-fusion, and a full horn section, characterized by frantic technicality and pop hooks. Maps of Non-Existent Places is another core album. |
+| Moon Safari | Blomljud | 2008 | This Swedish group focuses on elaborate vocal arrangements and sunny, symphonic prog textures that recall 70s Yes. Lover's End is another definitive melodic prog title. |
+| Knifeworld | The Unravelling | 2014 | Led by Kavus Torabi, this album features complex woodwind arrangements and psychedelic, avant-garde song structures that feel fresh and modern. Bottled Out of Eden is also essential. |
+| Kayo Dot | Choirs of the Eye | 2003 | A boundary-pushing mix of post-rock, metal, and chamber music, featuring non-traditional song structures and dense instrumentation. Dowsing Anemone with Copper Tongue is also vital. |
+| Anekdoten | Until All the Ghosts Are Gone | 2015 | Driven by heavy Mellotron usage and a dark, King Crimson-inspired energy, this Swedish band represents the "darker" side of modern prog. Vemod and Gravity are also classic. |
+| The Tangent | The Music That Died Alone | 2003 | Blending Canterbury-style jazz-rock with symphonic prog and modern lyrical themes, Andy Tillison's project is a modern staple. Not as Good as the Book is another highlight. |
+| Soen | Lotus | 2019 | Focusing on heavy, rhythmic grooves and soulful, soaring vocals, Soen creates a refined and atmospheric modern prog sound. Cognitive and Imperial are also core releases. |
+| Elder | Lore | 2015 | Originally a stoner metal band, this album saw them transition into sprawling, melodic prog-rock epics with intricate guitar interplay. Reflections of a Floating World is also a landmark. |
+| Unitopia | The Garden | 2008 | An Australian act that blends world music, jazz, and symphonic prog into massive, multi-movement compositions. Artificial is another essential record from their catalog. |
+| Arena | The Visitor | 1998 | Though early in the "modern" timeline, this album solidified the theatrical, synth-heavy Neo-Prog sound for the 2000s. Contagion and The Theory of Molecular Inheritance are also key. |
+| Pattern-Seeker | The World is a Game | 2012 | Highlighting the Quebecois prog scene, this album features lush flute, melodic basslines, and strong symphonic influences. Dreams and Machines is another recommended title. |
+| Sylvan | Posthumous Silence | 2006 | A concept album from Germany that focuses on emotional intensity, soaring guitar solos, and sophisticated piano work. Presets and Home are also notable works. |
+| Subsignal | Touchstones | 2011 | A blend of high-production melodic rock and technical prog, featuring intricate vocal harmonies and polished guitar work. Beautiful & Monstrous is another definitive title. |
+| Vola | Witness | 2021 | Combining heavy, djent-influenced rhythms with 80s synth-pop textures and electronic elements, Vola represents the cutting edge of the genre. Inmazes is also essential. |
+| Sleepytime Gorilla Museum | Of Natural History | 2004 | An avant-garde prog powerhouse using home-made instruments, complex time signatures, and theatrical performances. Grand Opening and Closing is their other definitive statement. |
+| District 97 | In Vaults | 2015 | Featuring an American Idol finalist on vocals and a band of virtuosos, they blend heavy prog with complex, jazz-influenced rhythms. Screens is also highly recommended. |
+| Southern Empire | Civilisation | 2018 | Australian symphonic prog featuring long-form epics, heavy riffs, and virtuosic keyboard and saxophone solos. Their self-titled debut is also a modern classic. |
+| Long Distance Calling | Boundless | 2018 | Primarily instrumental, this band uses a "post-prog" approach with driving rhythms and dual-guitar harmonies to build cinematic tension. Avoid the Light is also essential. |
+| Puscifer | Conditions of My Parole | 2011 | Maynard James Keenan's project blends electronic textures, quirky rhythms, and layered vocals into a unique, modern art-rock experience. Money Shot is also a key record. |
+| Guapo | Five-Suns | 2004 | A dark, intense mix of Zeuhl-inspired rhythms and heavy avant-prog instrumentation. History of the Visitation is another important work for fans of the heavier side. |
+| Mystery | Delusion Rain | 2015 | Canadian symphonic prog characterized by soaring melodies, emotional guitar solos, and high-register vocals. The World is a Game (different from the Pattern-Seeker album) is also a staple. |
+| Discipline | Unfolded Like Staircase | 1997 | Though just before the 2000s, its dark, complex storytelling and Van der Graaf Generator influence defined modern "dark prog." Captives of the Thieving Morn is their later masterpiece. |
+| The Sea Within | The Sea Within | 2018 | An art-rock supergroup featuring members of Flower Kings and Pain of Salvation, focusing on eclectic arrangements and diverse vocalists. |
+| Native Construct | Quiet World | 2015 | A dizzying blend of musical theater, extreme metal, and symphonic prog, featuring incredible technical execution. |
+| Jolly | The Audio Guide to Happiness (Part 1) | 2011 | Using binaural beats and heavy, melodic rock, Jolly creates a unique psychological prog experience. Part 2 completes the concept. |
+| Magic Pie | The Circus of Life | 2007 | Norwegian prog with a heavy focus on dual-guitar harmonies, organ, and intricate 70s-style arrangements. King for a Day is another highlight. |
+| Special Providence | Essence of Change | 2015 | An instrumental powerhouse from Hungary that blends jazz-fusion, metal, and symphonic prog with extreme precision. Soul Creatures is also vital. |
+| Druckfarben | Druckfarben | 2011 | Canadian prog that focuses on high-energy playing, complex vocal parts, and a mix of classic and modern sounds. |
+| Echolyn | echolyn | 2012 | American prog masters known for Gentle Giant-style vocal counterpoint and sophisticated, keyboard-led compositions. As the World is their other major work. |
+| Rishloo | Living as Ghosts with Giant Eyes | 2014 | Indie-tinged prog with theatrical vocals and building, dynamic song structures that lean into the psychedelic. Feathergun is their other essential album. |
+| Arcane | Known/Learned | 2015 | A massive double album of melodic, heavy prog from Australia (featuring Jim Grey of Caligula's Horse). |
+| The Mute Gods | Do Nothing till You Hear from Me | 2016 | Nick Beggs' project focusing on social commentary, high-tech production, and intricate Chapman Stick playing. Tardigrades Will Inherit the Earth is also essential. |
+| Gong | Rejoice! I'm Dead! | 2016 | A modern rebirth of the classic band, blending psychedelic space rock with modern jazz-fusion and intricate rhythms. The Universe Also Collapse is another high point. |
+| Motorpsycho | The Tower | 2017 | Norwegian legends who shifted from alt-rock to massive, sprawling prog-rock suites with heavy stoner and jazz influences. Death Defying Unicorn is also a masterpiece. |
+| Tumi | Tumi | 2011 | A unique project blending folk, jazz, and symphonic prog with a distinct focus on melody and atmosphere. |
+| White Willow | Terminal Twilight | 2011 | Norwegian art-prog featuring female vocals, melancholic synths, and a blend of folk and electronic textures. Signal to Noise is also recommended. |
+| Phideaux | Doomsday Afternoon | 2007 | An orchestral, multi-vocalist concept album that revives the grandiosity of 70s prog with a modern indie sensibility. Snowtorch is another essential. |
+| Seven Impale | City of the Sun | 2014 | Norwegian band that incorporates heavy saxophone, jazz-fusion rhythms, and aggressive, King Crimson-like guitar work. Contrapasso is their other major work. |
+| Malady | Ainavihantaa | 2018 | Finnish prog that uses vintage gear to create a warm, melodic, and melancholic modern sound. |
+| Galahad | Battle Scars | 2012 | A veteran Neo-Prog band that updated their sound with heavy electronic beats and modern production. Seas of Change is also highly regarded. |
+| Karibow | Holophin | 2016 | A prolific German project focusing on polished, melodic prog-rock with strong synth textures. |
+| Dewa Budjana | Zentua | 2016 | An Indonesian guitarist blending world music, jazz-fusion, and symphonic prog with world-class collaborators. |
+| Innermair | Symmetry | 2010 | Focuses on atmospheric, guitar-driven prog with a strong sense of melody and structure. |
+| Agents of Mercy | The Black Forest | 2011 | A Roine Stolt project featuring vocal-heavy, 70s-inspired symphonic rock with a modern punch. |
+| Glass Hammer | The Inconsolable Secret | 2005 | Tennessee-based band specializing in epic, Tolkien-inspired symphonic prog with lush keyboards. If is another core title. |
+| Karmakanic | DOT | 2016 | Jonas Reingold's project featuring virtuosic bass playing and complex, multi-layered symphonic arrangements. Who's the Boss in the Factory is also essential. |
+| Synaesthesia | Synaesthesia | 2014 | High-energy Neo-Prog with a modern, electronic edge and catchy melodies. |
+| Lonely Robot | Please Come Home | 2015 | John Mitchell's space-themed project focusing on accessible, high-production prog with soaring guitar solos. The Big Dream is another key release. |
+| Airship | Stuck in this Ocean | 2011 | A blend of indie rock and atmospheric prog with building crescendos and layered textures. |
+| Aziola Cry | The Ironic Divide | 2021 | An instrumental trio utilizing the Chapman Stick to create complex, interlocking rhythmic patterns. |
+| Need | Hegaiamas: a Song for Freedom | 2017 | Greek band that blends heavy riffs with long, atmospheric passages and spoken word elements. |
+| Frequency Drift | Over | 2014 | German "cinematic prog" featuring harp and female vocals, creating a unique, ethereal atmosphere. |
+| Comedy of Errors | Spirit | 2015 | Scottish Neo-Prog with symphonic flourishes and a strong focus on melody and storytelling. |
+| Different Light | The Binary Stream | 2016 | A blend of melodic rock and sophisticated prog structures with a focus on piano and guitar interplay. |
+| The Enid | Dust | 2016 | A modern iteration of the orchestral prog legends, focusing on operatic vocals and lush, classical arrangements. |
+| Pattern Seeking Animals | Prehensile Tales | 2020 | Spun off from Spock's Beard, this band focuses on shorter but equally complex and eclectic prog-pop songs. |
+| Kyros | Celexa Dreams | 2020 | Blending 80s synth-pop with modern prog complexity and high-energy instrumental sections. |
+| Exploring Birdsong | The Thing with Feathers | 2019 | A piano-led trio from the UK that uses intricate rhythms and dual-vocal harmonies to create a fresh prog sound. |
+| I Am the Manic Whale | Things Are Not as They Seem | 2020 | Quintessential British prog with a focus on quirky storytelling and lush, multi-part harmonies. |
+| Cheeto's Magazine | Amazingous | 2019 | A colorful, high-energy blend of Spock's Beard-style prog and whimsical, Zappa-esque humor. |
+| Smalltape | The Hungry Heart | 2021 | A German multi-instrumentalist project blending jazz, orchestral textures, and heavy modern prog. |
+| The Anchoress | The Art of Losing | 2021 | Catherine Anne Davies blends art-pop with deep, complex prog arrangements and dark, introspective lyrics. |
+| Lifesigns | Altitude | 2021 | Melodic, keyboard-led prog featuring John Young, focusing on sophisticated pop structures and lush production. |
+| Teramaze | Esoteric Symbolism | 2014 | Australian band blending technical progressive metal with highly melodic, AOR-influenced choruses. |
+| In Continuum | Acceleration Theory | 2019 | Dave Kerzner's project featuring classic symphonic prog elements with a modern, high-fidelity sound. |
+| Zopp | Zopp | 2020 | A modern take on the Canterbury Scene, featuring fuzzy organs and complex, jazzy rhythmic shifts. |
+| Gnoomes | Mu! | 2019 | A Russian band blending "stargaze" with motorik rhythms and psychedelic prog textures. |
+| The Fierce and the Dead | News from the Invisible World | 2023 | Instrumental prog that blends post-rock, heavy riffs, and psychedelic textures into concise, punchy tracks. |
+| Crown Lands | Fearless | 2023 | A Canadian duo that revitalizes the 70s Rush sound with modern energy and virtuosic multi-instrumentalism. |
+| The Smile | A Light for Attracting Attention | 2022 | Radiohead members explore complex time signatures and krautrock-inspired grooves in this modern art-prog landmark. |
