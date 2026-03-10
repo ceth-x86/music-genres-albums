@@ -3,6 +3,7 @@
 ## Rock
 
 - [Classic Rock](Rock/classic_rock.md)
+- [Folk Rock](Rock/folk_rock.md)
 
 ### Mainstream Rock
 
@@ -11,9 +12,11 @@
 ### Progressive Rock
 
 - [Modern Prog Rock](Rock/Progressive%20Rock/modern_prog_rock.md)
+- [Space Rock](Rock/Progressive%20Rock/space_rock.md)
 
 ## Indie Rock
 
+- [Indie Rock](Indie%20Rock/indie_rock.md)
 - [Slowcore](Indie%20Rock/slowcore.md)
 
 ## Metal
