@@ -2,7 +2,7 @@ You are a professional music archivist and genre classification expert. Your tas
 
 Classification Context: I am using a strict hierarchical genre structure. It is crucial that the selected albums represent the "pure" sound of the requested genre, minimizing overlap with sibling genres in the same branch.
 
-Genre for Selection: [Peak Techno]
+Genre for Selection: [Cool Jazz]
 
 Your Task:
 

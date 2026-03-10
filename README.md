@@ -27,3 +27,19 @@
 ### Techno
 
 - [Peak Techno](Electronic/Techno/peak_techno.md)
+
+### IDM
+
+- [Classic IDM](Electronic/IDM/classic_idm.md)
+
+## Pop
+
+### Mainstream Pop
+
+- [Dance Pop](Pop/Mainstream%20Pop/dance_pop.md)
+
+## Jazz
+
+### Modernist
+
+- [Cool Jazz](Jazz/Modernist/cool_jazz.md)
