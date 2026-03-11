@@ -4,8 +4,10 @@
 
 - [Arena Rock](Rock/arena_rock.md)
 - [Art Rock](Rock/art_rock.md)
+- [Blues Rock](Rock/blues_rock.md)
 - [Classic Rock](Rock/classic_rock.md)
 - [Folk Rock](Rock/folk_rock.md)
+- [Garage Rock](Rock/garage_rock.md)
 - [Glam Rock](Rock/glam_rock.md)
 - [Hard Rock](Rock/hard_rock.md)
 - [Psychedelic Rock](Rock/psychedelic_rock.md)
@@ -14,10 +16,13 @@
 
 - [Pop Rock](Rock/Mainstream%20Rock/pop_rock.md)
 - [Power Pop](Rock/Mainstream%20Rock/power_pop.md)
+- [Soft Rock](Rock/Mainstream%20Rock/soft_rock.md)
 
 ### Progressive Rock
 
+- [Avant-Prog](Rock/Progressive%20Rock/avant_prog.md)
 - [Modern Prog Rock](Rock/Progressive%20Rock/modern_prog_rock.md)
+- [Neo-Prog](Rock/Progressive%20Rock/neo_prog.md)
 - [Space Rock](Rock/Progressive%20Rock/space_rock.md)
 - [Symphonic Prog](Rock/Progressive%20Rock/symphonic_prog.md)
 
@@ -28,7 +33,9 @@
 
 ## Alternative Rock
 
+- [Britpop](Alternative%20Rock/britpop.md)
 - [Grunge](Alternative%20Rock/grunge.md)
+- [Post Grunge](Alternative%20Rock/post_grunge.md)
 
 ## Indie Rock
 
@@ -85,10 +92,22 @@
 
 ## Punk
 
+- [Classic Punk](Punk/classic_punk.md)
+- [Pop Punk](Punk/pop_punk.md)
+
 ### Post Punk
 
+- [Darkwave](Punk/Post%20Punk/darkwave.md)
+- [Gothic Rock](Punk/Post%20Punk/gothic_rock.md)
 - [New Wave](Punk/Post%20Punk/new_wave.md)
 - [Post-Punk Revival](Punk/Post%20Punk/post-punk-revival.md)
+
+### Hardcore Punk
+
+#### Post Hardcore
+
+- [Emo](Punk/Hardcore%20Punk/Post%20Hardcore/emo.md)
+- [Screamo](Punk/Hardcore%20Punk/Post%20Hardcore/screamo.md)
 
 ## Electronic
 
@@ -103,6 +122,7 @@
 
 ### Techno
 
+- [Dub Techno](Electronic/Techno/dub_techno.md)
 - [Melodic Techno](Electronic/Techno/melodic_techno.md)
 - [Peak Techno](Electronic/Techno/peak_techno.md)
 
@@ -112,11 +132,19 @@
 - [Classic IDM](Electronic/IDM/classic_idm.md)
 - [Glitch / Microsound](Electronic/IDM/glitch.md)
 
+### Synthpop
+
+- [Classic Synthpop](Electronic/Synthpop/classic_synthpop.md)
+
 ### Trance
 
 - [Tech Trance](Electronic/Trance/tech_trance.md)
 
 ## Pop
+
+### Art Pop
+
+- [Baroque Pop](Pop/Art%20Pop/baroque_pop.md)
 
 ### Mainstream Pop
 
