@@ -37,6 +37,10 @@
 - [Grunge](Alternative%20Rock/grunge.md)
 - [Post Grunge](Alternative%20Rock/post_grunge.md)
 
+### Experimental Alt Rock
+
+- [Electronic Rock](Alternative%20Rock/Experimental%20Alt%20Rock/electronic_rock.md)
+
 ## Indie Rock
 
 - [Indie Pop](Indie%20Rock/indie_pop.md)
@@ -45,6 +49,11 @@
 - [Post Rock](Indie%20Rock/post_rock.md)
 - [Indie Folk](Indie%20Rock/indie_folk.md)
 - [Slowcore](Indie%20Rock/slowcore.md)
+
+### Dreamy Indie
+
+- [Dream Pop](Indie%20Rock/Dreamy%20Indie/dream_pop.md)
+- [Shoegaze](Indie%20Rock/Dreamy%20Indie/shoegaze.md)
 
 ## Metal
 
@@ -66,6 +75,7 @@
 
 ### Alternative Metal
 
+- [Industrial Metal](Metal/Alternative%20Metal/industrial_metal.md)
 - [Nu Metal](Metal/Alternative%20Metal/nu_metal.md)
 
 ### Death Metal
@@ -76,10 +86,13 @@
 
 ### Other Styles
 
+- [Post Metal](Metal/Other%20Styles/post_metal.md)
 - [Power Metal](Metal/Other%20Styles/power_metal.md)
 - [Symphonic Metal](Metal/Other%20Styles/symphonic_metal.md)
 
 ### Black Metal
+
+- [Atmospheric Black Metal](Metal/Black%20Metal/atmospheric_black_metal.md)
 
 #### Post Black Metal
 
@@ -115,6 +128,7 @@
 
 - [Ambient Techno](Electronic/Ambient/ambient_techno.md)
 - [Classic Ambient](Electronic/Ambient/classic_ambient.md)
+- [Dark Ambient](Electronic/Ambient/dark_ambient.md)
 
 ### Electro
 
