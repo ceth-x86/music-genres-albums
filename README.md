@@ -25,14 +25,20 @@
 ### Classic & Heavy Metal
 
 - [Groove Metal](Metal/Classic%20%26%20Heavy%20Metal/groove_metal.md)
+- [Thrash Metal](Metal/Classic%20%26%20Heavy%20Metal/thrash_metal.md)
 
 ### Core Styles
 
+- [Deathcore](Metal/Core%20Styles/deathcore.md)
 - [Progressive Metal](Metal/Core%20Styles/progressive_metal.md)
 
 ### Alternative Metal
 
 - [Nu Metal](Metal/Alternative%20Metal/nu_metal.md)
+
+### Other Styles
+
+- [Power Metal](Metal/Other%20Styles/power_metal.md)
 
 ### Doom & Sludge
 
@@ -48,7 +54,12 @@
 
 ### Ambient
 
+- [Ambient Techno](Electronic/Ambient/ambient_techno.md)
 - [Classic Ambient](Electronic/Ambient/classic_ambient.md)
+
+### Electro
+
+- [Classic Electro](Electronic/Electro/classic_electro.md)
 
 ### Techno
 
@@ -63,6 +74,11 @@
 ### Mainstream Pop
 
 - [Dance Pop](Pop/Mainstream%20Pop/dance_pop.md)
+- [Electropop](Pop/Mainstream%20Pop/electropop.md)
+
+## Dark Folk
+
+- [Apocalyptic Folk](Dark%20Folk/apocalyptic_folk.md)
 
 ## Jazz
 

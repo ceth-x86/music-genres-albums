@@ -21,3 +21,11 @@ When the user gives a filename:
    Create directories as needed.
 
 3. **Update README.md** — add a link to the file in `README.md` at the project root, organized by category.
+
+## "convert" Command
+
+When the user says **"convert"**, find all `.md` files in the project root that are unconverted (CSV-like content, not yet markdown tables). Process each one using the workflow above. Multiple files should be handled in one go.
+
+## Translation
+
+If a source file is in Russian (or any non-English language), translate all content to English during conversion.
