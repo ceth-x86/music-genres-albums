@@ -36,6 +36,7 @@
 - [Indie Rock](Indie%20Rock/indie_rock.md)
 - [Indietronica](Indie%20Rock/indietronica.md)
 - [Post Rock](Indie%20Rock/post_rock.md)
+- [Indie Folk](Indie%20Rock/indie_folk.md)
 - [Slowcore](Indie%20Rock/slowcore.md)
 
 ## Metal
@@ -102,12 +103,18 @@
 
 ### Techno
 
+- [Melodic Techno](Electronic/Techno/melodic_techno.md)
 - [Peak Techno](Electronic/Techno/peak_techno.md)
 
 ### IDM
 
 - [Ambient IDM](Electronic/IDM/ambient_idm.md)
 - [Classic IDM](Electronic/IDM/classic_idm.md)
+- [Glitch / Microsound](Electronic/IDM/glitch.md)
+
+### Trance
+
+- [Tech Trance](Electronic/Trance/tech_trance.md)
 
 ## Pop
 
