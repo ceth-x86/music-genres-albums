@@ -4,6 +4,7 @@
 
 - [Classic Rock](Rock/classic_rock.md)
 - [Folk Rock](Rock/folk_rock.md)
+- [Glam Rock](Rock/glam_rock.md)
 
 ### Mainstream Rock
 
@@ -25,7 +26,29 @@
 
 - [Groove Metal](Metal/Classic%20%26%20Heavy%20Metal/groove_metal.md)
 
+### Core Styles
+
+- [Progressive Metal](Metal/Core%20Styles/progressive_metal.md)
+
+### Alternative Metal
+
+- [Nu Metal](Metal/Alternative%20Metal/nu_metal.md)
+
+### Doom & Sludge
+
+- [Doom Metal](Metal/Doom%20%26%20Sludge/doom_metal.md)
+
+## Punk
+
+### Post Punk
+
+- [Post-Punk Revival](Punk/Post%20Punk/post-punk-revival.md)
+
 ## Electronic
+
+### Ambient
+
+- [Classic Ambient](Electronic/Ambient/classic_ambient.md)
 
 ### Techno
 
