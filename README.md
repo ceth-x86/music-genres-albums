@@ -43,6 +43,7 @@
 ### Classic & Heavy Metal
 
 - [Groove Metal](Metal/Classic%20%26%20Heavy%20Metal/groove_metal.md)
+- [Heavy Metal](Metal/Classic%20%26%20Heavy%20Metal/heavy_metal.md)
 - [Thrash Metal](Metal/Classic%20%26%20Heavy%20Metal/thrash_metal.md)
 
 ### Core Styles
@@ -62,6 +63,8 @@
 ### Death Metal
 
 - [Melodic Death Metal](Metal/Death%20Metal/melodic_death_metal.md)
+- [Progressive Death Metal](Metal/Death%20Metal/progressive_death_metal.md)
+- [Technical Death Metal](Metal/Death%20Metal/technical_death_metal.md)
 
 ### Other Styles
 
@@ -103,6 +106,7 @@
 
 ### IDM
 
+- [Ambient IDM](Electronic/IDM/ambient_idm.md)
 - [Classic IDM](Electronic/IDM/classic_idm.md)
 
 ## Pop
