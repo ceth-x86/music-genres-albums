@@ -21,6 +21,7 @@
 ### Progressive Rock
 
 - [Avant-Prog](Rock/Progressive%20Rock/avant_prog.md)
+- [Krautrock](Rock/Progressive%20Rock/krautrock.md)
 - [Modern Prog Rock](Rock/Progressive%20Rock/modern_prog_rock.md)
 - [Neo-Prog](Rock/Progressive%20Rock/neo_prog.md)
 - [Space Rock](Rock/Progressive%20Rock/space_rock.md)
@@ -136,22 +137,38 @@
 
 ### Techno
 
+- [Berlin Techno](Electronic/Techno/berlin-techno.md)
 - [Dub Techno](Electronic/Techno/dub_techno.md)
 - [Melodic Techno](Electronic/Techno/melodic_techno.md)
+- [Minimal Techno](Electronic/Techno/minimal-techno.md)
 - [Peak Techno](Electronic/Techno/peak_techno.md)
+
+### Breaks
+
+- [Breakbeat](Electronic/Breaks/breakbeat.md)
 
 ### IDM
 
 - [Ambient IDM](Electronic/IDM/ambient_idm.md)
+- [Braindance](Electronic/IDM/braindance.md)
 - [Classic IDM](Electronic/IDM/classic_idm.md)
+- [Electro IDM](Electronic/IDM/electro-idm.md)
+- [Experimental IDM / Post IDM](Electronic/IDM/experimental-idm.md)
 - [Glitch / Microsound](Electronic/IDM/glitch.md)
 
 ### Synthpop
 
 - [Classic Synthpop](Electronic/Synthpop/classic_synthpop.md)
 
+### House
+
+#### Modern Styles
+
+- [Melodic House](Electronic/House/Modern%20Styles/melodic-house.md)
+
 ### Trance
 
+- [Classic Trance](Electronic/Trance/classic-trance.md)
 - [Tech Trance](Electronic/Trance/tech_trance.md)
 
 ## Pop
@@ -159,6 +176,7 @@
 ### Art Pop
 
 - [Baroque Pop](Pop/Art%20Pop/baroque_pop.md)
+- [Chamber Pop](Pop/Art%20Pop/chamber-pop.md)
 
 ### Mainstream Pop
 
@@ -168,6 +186,7 @@
 ## Dark Folk
 
 - [Apocalyptic Folk](Dark%20Folk/apocalyptic_folk.md)
+- [Martial Folk](Dark%20Folk/martial-folk.md)
 
 ## Jazz
 
