@@ -7,6 +7,8 @@
 - [Classic Rock](Rock/classic_rock.md)
 - [Folk Rock](Rock/folk_rock.md)
 - [Glam Rock](Rock/glam_rock.md)
+- [Hard Rock](Rock/hard_rock.md)
+- [Psychedelic Rock](Rock/psychedelic_rock.md)
 
 ### Mainstream Rock
 
@@ -21,6 +23,7 @@
 
 ### Experimental Rock
 
+- [Avant-Garde Rock](Rock/Experimental%20Rock/avant-garde-rock.md)
 - [Noise Rock](Rock/Experimental%20Rock/noise_rock.md)
 
 ## Alternative Rock
@@ -31,6 +34,8 @@
 
 - [Indie Pop](Indie%20Rock/indie_pop.md)
 - [Indie Rock](Indie%20Rock/indie_rock.md)
+- [Indietronica](Indie%20Rock/indietronica.md)
+- [Post Rock](Indie%20Rock/post_rock.md)
 - [Slowcore](Indie%20Rock/slowcore.md)
 
 ## Metal
@@ -43,19 +48,36 @@
 ### Core Styles
 
 - [Deathcore](Metal/Core%20Styles/deathcore.md)
+- [Metalcore](Metal/Core%20Styles/metalcore.md)
 - [Progressive Metal](Metal/Core%20Styles/progressive_metal.md)
+
+#### Progressive Metal
+
+- [Djent](Metal/Core%20Styles/Progressive%20Metal/djent.md)
 
 ### Alternative Metal
 
 - [Nu Metal](Metal/Alternative%20Metal/nu_metal.md)
 
+### Death Metal
+
+- [Melodic Death Metal](Metal/Death%20Metal/melodic_death_metal.md)
+
 ### Other Styles
 
 - [Power Metal](Metal/Other%20Styles/power_metal.md)
+- [Symphonic Metal](Metal/Other%20Styles/symphonic_metal.md)
+
+### Black Metal
+
+#### Post Black Metal
+
+- [Blackgaze](Metal/Black%20Metal/Post%20Black%20Metal/blackgaze.md)
 
 ### Doom & Sludge
 
 - [Doom Metal](Metal/Doom%20%26%20Sludge/doom_metal.md)
+- [Sludge Metal](Metal/Doom%20%26%20Sludge/sludge_metal.md)
 
 ## Punk
 
