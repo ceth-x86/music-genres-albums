@@ -11,9 +11,11 @@
 - [Glam Rock](Rock/glam_rock.md)
 - [Hard Rock](Rock/hard_rock.md)
 - [Psychedelic Rock](Rock/psychedelic_rock.md)
+- [Stoner Rock](Rock/stoner-rock.md)
 
 ### Mainstream Rock
 
+- [College Rock](Rock/Mainstream%20Rock/college-rock.md)
 - [Pop Rock](Rock/Mainstream%20Rock/pop_rock.md)
 - [Power Pop](Rock/Mainstream%20Rock/power_pop.md)
 - [Soft Rock](Rock/Mainstream%20Rock/soft_rock.md)
@@ -82,6 +84,7 @@
 ### Death Metal
 
 - [Melodic Death Metal](Metal/Death%20Metal/melodic_death_metal.md)
+- [Old School Death Metal](Metal/Death%20Metal/old-school-death-metal.md)
 - [Progressive Death Metal](Metal/Death%20Metal/progressive_death_metal.md)
 - [Technical Death Metal](Metal/Death%20Metal/technical_death_metal.md)
 
@@ -94,6 +97,7 @@
 ### Black Metal
 
 - [Atmospheric Black Metal](Metal/Black%20Metal/atmospheric_black_metal.md)
+- [Raw Black Metal](Metal/Black%20Metal/raw-black-metal.md)
 
 #### Post Black Metal
 
@@ -130,6 +134,7 @@
 - [Ambient Techno](Electronic/Ambient/ambient_techno.md)
 - [Classic Ambient](Electronic/Ambient/classic_ambient.md)
 - [Dark Ambient](Electronic/Ambient/dark_ambient.md)
+- [Industrial Ambient](Electronic/Ambient/industrial-ambient.md)
 
 ### Electro
 
@@ -138,6 +143,7 @@
 ### Techno
 
 - [Berlin Techno](Electronic/Techno/berlin-techno.md)
+- [Detroit Techno](Electronic/Techno/detroit-techno.md)
 - [Dub Techno](Electronic/Techno/dub_techno.md)
 - [Melodic Techno](Electronic/Techno/melodic_techno.md)
 - [Minimal Techno](Electronic/Techno/minimal-techno.md)
@@ -145,6 +151,7 @@
 
 ### Breaks
 
+- [Big Beat](Electronic/Breaks/big-beat.md)
 - [Breakbeat](Electronic/Breaks/breakbeat.md)
 
 ### IDM
@@ -192,4 +199,7 @@
 
 ### Modernist
 
+- [Bebop](Jazz/Modernist/bebop.md)
 - [Cool Jazz](Jazz/Modernist/cool_jazz.md)
+- [Hard Bop](Jazz/Modernist/hard-bop.md)
+- [Modal Jazz](Jazz/Modernist/modal-jazz.md)
