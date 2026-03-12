@@ -27,6 +27,7 @@
 ### Progressive Rock
 
 - [Avant-Prog](Rock/Progressive%20Rock/avant_prog.md)
+- [Canterbury Scene](Rock/Progressive%20Rock/canterbury-scene.md)
 - [Eclectic Prog](Rock/Progressive%20Rock/eclectic-prog.md)
 - [Krautrock](Rock/Progressive%20Rock/krautrock.md)
 - [Modern Prog Rock](Rock/Progressive%20Rock/modern_prog_rock.md)
@@ -220,6 +221,7 @@
 
 #### Origins
 
+- [Acid House](Electronic/House/Origins/acid-house.md)
 - [Chicago House](Electronic/House/Origins/chicago-house.md)
 
 #### Deep & Soulful
@@ -238,6 +240,14 @@
 - [Tech Trance](Electronic/Trance/tech_trance.md)
 - [Uplifting Trance](Electronic/Trance/uplifting-trance.md)
 
+### Hardcore
+
+- [Happy Hardcore](Electronic/Hardcore/happy-hardcore.md)
+
+### Downtempo
+
+- [Trip-Hop](Electronic/Downtempo/trip-hop.md)
+
 ### Experimental Electronic
 
 - [Noise Electronic](Electronic/Experimental%20Electronic/noise-electronic.md)
@@ -246,11 +256,13 @@
 
 ### Art Pop
 
+- [Avant Pop](Pop/Art%20Pop/avant-pop.md)
 - [Baroque Pop](Pop/Art%20Pop/baroque_pop.md)
 - [Chamber Pop](Pop/Art%20Pop/chamber-pop.md)
 
 ### Mainstream Pop
 
+- [Bubblegum Pop](Pop/Mainstream%20Pop/bubblegum-pop.md)
 - [Dance Pop](Pop/Mainstream%20Pop/dance_pop.md)
 - [Electropop](Pop/Mainstream%20Pop/electropop.md)
 
@@ -259,11 +271,19 @@
 ### EBM and related
 
 - [EBM](Industrial/EBM%20and%20related/ebm.md)
+- [Electro Industrial](Industrial/EBM%20and%20related/electro-industrial.md)
+- [Futurepop](Industrial/EBM%20and%20related/futurepop.md)
+
+### Harsh & Aggressive
+
+- [Aggrotech](Industrial/Harsh%20%26%20Aggressive/aggrotech.md)
+- [Dark Electro](Industrial/Harsh%20%26%20Aggressive/dark-electro.md)
 
 ## Dark Folk
 
 - [Apocalyptic Folk](Dark%20Folk/apocalyptic_folk.md)
 - [Martial Folk](Dark%20Folk/martial-folk.md)
+- [Romantic Folk](Dark%20Folk/romantic-folk.md)
 
 ## Jazz
 
