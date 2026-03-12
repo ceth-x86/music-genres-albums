@@ -285,6 +285,8 @@
 
 - [Apocalyptic Folk](Dark%20Folk/apocalyptic_folk.md)
 - [Martial Folk](Dark%20Folk/martial-folk.md)
+- [Neoclassical Folk](Dark%20Folk/neoclassical-folk.md)
+- [Psychedelic Dark Folk](Dark%20Folk/psychedelic-dark-folk.md)
 - [Ritual Folk](Dark%20Folk/ritual-folk.md)
 - [Romantic Folk](Dark%20Folk/romantic-folk.md)
 
@@ -299,6 +301,13 @@
 #### Disco
 
 - [Classic Disco](R%26B%20Soul/Related%20Styles/Disco/classic-disco.md)
+- [Euro Disco](R%26B%20Soul/Related%20Styles/Disco/euro-disco.md)
+
+## Hip-Hop Rap
+
+### Styles
+
+- [Experimental Hip-Hop](Hip-Hop%20Rap/Styles/experimental-hip-hop.md)
 
 ## Jazz
 
