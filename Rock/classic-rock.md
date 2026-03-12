@@ -1,5 +1,7 @@
 # Classic Rock
 
+Classic rock is a broad radio-format-turned-genre designation encompassing the guitar-driven rock music produced primarily between the late 1960s and late 1980s. Rooted in blues, R&B, and early rock and roll, the sound is built on pentatonic guitar riffs, prominent bass and drums, and strong vocal melodies, typically performed by a standard rock ensemble of electric guitars, bass, drums, and keyboards. The genre coalesced in the early 1970s when bands like Led Zeppelin, The Rolling Stones, and The Who expanded the raw energy of 1960s rock into longer, more ambitious compositions with improved studio production. Classic rock prizes the electric guitar solo as a centerpiece, whether blues-based, melodic, or virtuosic, and values the album as a complete artistic statement rather than a collection of singles. Substreams within the genre range from the stripped-down boogie of ZZ Top and Foghat to the sophisticated jazz-rock inflections of Steely Dan and the orchestral pop grandeur of Electric Light Orchestra. Its cultural dominance on FM radio throughout the 1970s and 1980s cemented a canon that continues to define mainstream rock taste decades later.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | The Rolling Stones | Sticky Fingers | 1971 | This album epitomizes the gritty, blues-based guitar riffs and swaggering attitude that define the genre's peak. It features the quintessential dual-guitar weave and a driving rhythm section. Other essential works include Exile on Main St. and Let It Bleed. |

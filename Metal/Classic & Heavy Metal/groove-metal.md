@@ -1,5 +1,7 @@
 # Groove Metal
 
+Groove metal crystallized in the early 1990s as thrash metal bands began slowing their tempos and emphasizing syncopated, mid-paced riffs designed to produce a visceral, physical response. The genre is defined by its heavy reliance on rhythmic "bounce," with down-tuned guitars delivering chunky, palm-muted patterns that lock tightly with powerful, percussive drumming. Unlike the speed-driven approach of thrash, groove metal prizes the weight and swagger of each riff, often incorporating hip-hop-influenced rhythmic cadences and bluesy bends. Pantera's shift from power metal to a stripped-down, aggressive sound in the early 1990s is widely regarded as the genre's defining moment, though parallel developments in bands like Sepultura and Exhorder were equally foundational. Vocals tend toward shouted or barked delivery, conveying a streetwise aggression that mirrors the music's confrontational stance. The genre's influence extended deeply into nu metal, metalcore, and modern heavy music, making its rhythmic DNA one of the most pervasive legacies in contemporary metal.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Pantera | Vulgar Display of Power | 1992 | This is the blueprint for groove metal, shifting away from thrash toward mid-tempo, syncopated power grooves and Dimebag Darrell's "shred-heavy" yet rhythmic riffing. It prioritizes sheer physical impact and "bounce" over pure speed, seen also in Far Beyond Driven and The Great Southern Trendkill. |

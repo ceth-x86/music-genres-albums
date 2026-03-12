@@ -1,3 +1,7 @@
+# Classic Synthpop
+
+Classic Synthpop crystallized in the late 1970s and early 1980s as artists replaced traditional rock instrumentation with synthesizers, drum machines, and sequencers to create catchy, melody-driven pop music. Rooted in the pioneering work of Kraftwerk, Giorgio Moroder, and early Gary Numan, the genre is defined by bright analog synth leads, rigid electronic rhythms from machines like the LinnDrum and Roland TR-808, and polished vocal performances that range from detached and robotic to earnest and emotive. Key instruments include the Roland Jupiter-8, Sequential Circuits Prophet-5, Minimoog, and later the Yamaha DX7, whose timbres became the sonic signature of the decade. The movement flourished across the UK, Germany, and Scandinavia, fueled by the New Romantic club scene and enabled by increasingly affordable synthesizer technology. Classic Synthpop dominated the pop charts throughout the 1980s while simultaneously laying the groundwork for virtually every subsequent form of electronic pop music, from Eurodance to modern indie-electronic.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | The Human League | Dare | 1981 | A definitive shift from experimentalism to polished, melodic synthpop, featuring the iconic Linn LM-1 drum machine and Roland Jupiter-4 textures. It established the "pop" blueprint for the genre. Other essential works include Reproduction and Travelogue. |

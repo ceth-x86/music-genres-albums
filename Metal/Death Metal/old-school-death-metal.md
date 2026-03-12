@@ -1,3 +1,7 @@
+# Old School Death Metal
+
+Old school death metal refers to the foundational wave of death metal that emerged between the mid-1980s and early 1990s, primarily from the Florida, Stockholm, and UK scenes. The genre is characterized by downtuned, heavily distorted guitars employing tremolo picking and chromatic riffing, guttural or growled vocals, blast-beat and double-bass drumming, and a production aesthetic that ranges from the polished Morrisound Studios recordings to the raw Swedish "buzzsaw" tone achieved through the Boss HM-2 pedal. Song structures tend to be direct and riff-driven, prioritizing visceral impact and morbid atmosphere over the technical complexity or melodic focus of later death metal offshoots. Lyrical themes revolve around death, gore, horror, war, and anti-religious sentiment, delivered with an intensity that pushed the boundaries of extreme music in its era. The genre's influence is immeasurable, having spawned every subsequent death metal subgenre and continuing to inspire a thriving revival movement in the 2010s and 2020s.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Death | Leprosy | 1988 | This album transitioned the band from raw thrash into a more structured, crushing death metal sound characterized by Chuck Schuldiner's piercing vocals and Bill Andrews' foundational drumming. It established the standard for Floridian death metal production and songwriting; other essential works include Scream Bloody Gore and Spiritual Healing. |

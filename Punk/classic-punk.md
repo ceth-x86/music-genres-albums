@@ -1,3 +1,7 @@
+# Classic Punk
+
+Classic punk emerged in the mid-1970s as a visceral reaction against the perceived excesses of progressive and arena rock, stripping music down to its raw essentials. Rooted in the garage rock of the 1960s and the proto-punk of The Stooges and New York Dolls, the genre is defined by short, fast songs built on simple three-chord progressions, aggressive downstroke guitar rhythms, and a deliberate rejection of virtuosity. Vocals range from sneering and confrontational to melodic and urgent, often delivering lyrics focused on social alienation, political rebellion, and urban boredom. The instrumentation is deliberately minimal -- electric guitar, bass, drums, and little else -- with a lo-fi, unpolished production aesthetic that emphasized energy over fidelity. Originating almost simultaneously in New York (CBGB), London, and Australia, classic punk became as much a cultural movement as a musical one, influencing fashion, visual art, and DIY ethics that continue to reverberate through independent music to this day.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Ramones | Ramones | 1976 | This album established the blueprint for the genre with its stripped-down, high-speed, three-chord song structures and lack of guitar solos. Its relentless 4/4 down-stroke rhythm and "bubblegum" melodies defined the NYC scene; other essential works include Leave Home and Rocket to Russia. |

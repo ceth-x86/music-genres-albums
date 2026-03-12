@@ -1,3 +1,7 @@
+# Dark Electro / Electro Techno
+
+Dark Electro and Electro Techno emerged in the mid-1990s at the crossroads of Detroit electro, EBM, and industrial techno, forging a sound defined by oppressive atmospheres and mechanical intensity. The genre strips away the funk and playfulness of classic electro, replacing it with cold, dystopian synthesizer textures, distorted basslines, and relentless, often punishing rhythms. Instrumentation centers on analog hardware -- Roland TR-808 and TR-909 drum machines, modular synthesizers, and the iconic TB-303 acid line -- all pushed toward harsher, more abrasive tonal extremes. Tempos range from the slow, grinding pulse of dark techno to the frantic 140+ BPM of aggressive electro, united by a shared devotion to pitch-black mood and clinical precision. Key scenes developed in Berlin, The Hague, and Detroit, with labels like Bunker Records, Sandwell District, and Hospital Productions serving as focal points. The genre continues to thrive in the 2020s underground, bridging industrial noise, post-punk, and functional club music into a singular vision of nocturnal dread.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | The Hacker | Mélodies En Sous-Sol | 2000 | This album is a cornerstone of the dark electro-techno sound, blending cold, minimalist EBM rhythms with a brooding cinematic atmosphere. It avoids the camp of electroclash in favor of a harder, clinical edge found also on his Rêves Mécaniques LP. |

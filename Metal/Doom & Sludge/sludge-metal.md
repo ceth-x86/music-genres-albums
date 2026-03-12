@@ -1,3 +1,7 @@
+# Sludge Metal
+
+Sludge metal emerged in the late 1980s by fusing the crushing slowness of doom metal with the abrasive aggression and DIY ethos of hardcore punk. The genre is defined by extremely downtuned, feedback-laden guitars, a thick and murky production style, and vocals that range from agonized screams to guttural howls drenched in distortion. New Orleans became the genre's spiritual capital in the early 1990s, with bands like Eyehategod and Crowbar establishing a blueprint of bluesy, lurching riffs played at punishing volume through damaged amplifiers. Tempos oscillate between torturous crawls and bursts of hardcore-punk velocity, creating a sense of lurching, unpredictable momentum. Lyrical themes tend toward misanthropy, addiction, urban decay, and existential despair, mirroring the harsh social environments that birthed the sound. Sludge metal's influence has radiated outward into post-metal, blackened sludge, and the broader extreme underground, remaining one of heavy music's most viscerally confrontational forms.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Melvins | Bullhead | 1991 | As the primary architects of the genre, the Melvins combined the crawling pace of Black Sabbath with the abrasive tonality of hardcore punk. This record features the massive, detuned "Boris" and "Zodiac," tracks that established the template for sludge's rhythmic density and "heavy-at-any-cost" philosophy; other essential titles include Gluey Porch Treatments and Ozma. |

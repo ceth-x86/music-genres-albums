@@ -1,3 +1,7 @@
+# Electroclash
+
+Electroclash exploded out of the New York and Berlin club scenes around 2000-2003 as a deliberate collision of 1980s synthpop aesthetics, punk attitude, and minimalist electro production. The genre is characterized by deadpan or provocative vocals delivered over cold, analog drum machine patterns and raw, often lo-fi synthesizer lines, with a lyrical focus on fashion, sexuality, irony, and nightlife decadence. Instrumentation typically centers on vintage hardware -- Roland MC-505 grooveboxes, TR-808 and TR-909 drum machines, and Moog or Korg analog synths -- used with deliberate crudeness to reject the polished sheen of mainstream dance music. The movement drew heavily from the confrontational spirit of punk, the camp theatrics of glam rock, and the fashion-forward posturing of the New Romantic era. Key figures like Miss Kittin, Peaches, and Fischerspooner blurred the lines between musical performance and art installation, making visual spectacle as central as the music itself. Though the genre's commercial moment was brief, its influence on subsequent electro-house, dark synthpop, and indie-electronic movements has been lasting and profound.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Miss Kittin & The Hacker | First Album | 2001 | This record set the blueprint for electroclash, blending deadpan, spoken-word vocals with cold, menacing 80s-style synth lines and analog drum machine beats. It perfectly captures the genre's intersection of high-fashion cynicism and gritty underground techno. |

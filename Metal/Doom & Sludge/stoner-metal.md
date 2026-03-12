@@ -1,3 +1,7 @@
+# Stoner Metal
+
+Stoner metal crystallized in the early 1990s in the California desert, drawing on the downtuned heaviness of Black Sabbath, the spacey improvisation of 1970s psychedelic rock, and the raw energy of punk. The sound is characterized by thick, fuzz-drenched guitar tones, repetitive hypnotic riffs, a heavy rhythmic groove, and a warm analog production aesthetic that evokes sun-baked landscapes and hazy consciousness. Typical instrumentation is the classic power-trio format of guitar, bass, and drums, with liberal use of wah-wah pedals, phaser effects, and vintage amplifiers cranked to their limits. Vocals tend toward a laid-back, bluesy delivery, often buried in the mix beneath walls of distortion. Lyrically and thematically, the genre gravitates toward psychedelia, desert imagery, retro science fiction, and counterculture attitudes. Stoner metal has spawned a global scene with particularly strong footholds in Sweden, Germany, and Australia, thriving in underground circuits and festival culture.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Kyuss | Welcome to Sky Valley | 1994 | This album is the quintessential blueprint for the genre, featuring low-tuned, "sun-baked" guitar riffs, a heavy groove, and a sprawling, desert-influenced atmosphere. It perfectly balances psychedelic jams with massive, fuzzy hooks, as heard also on their other essential releases Blues for the Red Sun and ...And the Circus Leaves Town. |

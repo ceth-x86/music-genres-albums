@@ -1,3 +1,7 @@
+# Death Doom
+
+Death doom emerged in the late 1980s and early 1990s at the intersection of death metal's guttural extremity and doom metal's crushing slowness, pioneered by the English "Peaceville Three" of Paradise Lost, My Dying Bride, and Anathema. The genre is characterized by deep growled vocals, heavy downtuned guitar riffs that alternate between grinding slow passages and moments of death metal aggression, and an overall atmosphere of profound sorrow and desolation. Melodic elements such as violin, piano, and orchestral keyboards frequently appear, adding layers of mournful beauty that contrast with the crushing weight of the rhythm section. Production tends to favor cavernous depth, emphasizing the oppressive low-end frequencies and reverberant spaces. Lyrically, death doom explores themes of loss, existential despair, decay, and gothic romanticism, often with a poetic sensibility inherited from the UK gothic tradition. The genre has sustained a devoted following across Europe, the Americas, and Australia, continually producing albums of remarkable emotional and sonic depth.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Paradise Lost | Gothic | 1991 | This album is a cornerstone of the "Peaceville Three," blending chunky death metal riffs with somber, mournful atmospheres and orchestral flourishes. It pioneered the use of "beauty and the beast" vocal contrasts, also heard on their debut Lost Paradise. |

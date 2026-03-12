@@ -1,3 +1,7 @@
+# Youth Crew
+
+Youth crew is a subgenre of hardcore punk that emerged in the mid-1980s, centered on a philosophy of positive living, straight edge principles, and fierce community loyalty. Musically, it is defined by fast, tight song structures built on the signature "go" beat -- a driving, syncopated drum pattern that encourages stage diving and sing-alongs -- paired with crunchy, mid-gain guitar riffs and shouted, anthemic gang vocals. The genre's sound sits between the raw speed of early hardcore and the melodic sensibility that would later define melodic hardcore, with clean production that emphasizes rhythmic precision and vocal clarity. Originating in the New York and Washington D.C. scenes with bands like Youth of Today, Gorilla Biscuits, and 7 Seconds, the movement was as much a lifestyle as a musical style, promoting vegetarianism, abstinence from drugs and alcohol, and an ethos of personal accountability. Youth crew experienced significant revivals in the late 1990s and 2000s, with bands faithfully recreating the 1988 blueprint while maintaining the genre's emphasis on sincerity and brotherhood.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | 7 Seconds | The Crew | 1984 | Often cited as the blueprint for the genre, this album shifted hardcore toward a positive, melodic, and community-centric direction. Its emphasis on "the crew" and fast, sing-along choruses defined the movement's ethos; other essentials include Walk Together, Rock Together. |

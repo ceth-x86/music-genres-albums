@@ -1,3 +1,7 @@
+# Funeral Doom
+
+Funeral doom is the slowest and most oppressive extreme of the doom metal spectrum, pioneered in the early 1990s by Finnish bands such as Thergothon and Skepticism. Compositions stretch to extraordinary lengths, often exceeding fifteen or twenty minutes, built on glacially paced riffs, cavernous guttural vocals, and sustained keyboard or organ drones that evoke processional solemnity. The production typically emphasizes vast reverb and low-frequency density, creating the sensation of sound emanating from deep underground crypts or empty cathedrals. Drums move at a deliberate, ceremonial pace, with each strike punctuating long stretches of droning guitar and synthesizer. Thematically, funeral doom dwells on mortality, cosmic insignificance, existential grief, and the void, often drawing on Lovecraftian horror or religious imagery. The genre demands extreme patience from its listeners but rewards them with an immersive, almost meditative experience of total sonic weight and emotional devastation.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Thergothon | Stream from the Heavens | 1994 | As one of the genre's founding pillars, this album established the blueprint of tectonic, crawling tempos, Lovecraftian atmosphere, and cavernous growls. Its use of eerie keyboards and skeletal guitar melodies creates a sense of immense, suffocating weight. |

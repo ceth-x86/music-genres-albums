@@ -1,3 +1,7 @@
+# Djent
+
+Djent emerged in the late 2000s as a rhythmically driven offshoot of progressive metal, taking its onomatopoeic name from the tightly palm-muted, high-gain guitar tone that defines the style. The genre traces its lineage directly to Meshuggah's polyrhythmic innovations, translating their mathematical precision into a more accessible and melodic framework through the work of artists like Periphery, TesseracT, and Animals as Leaders. Typical instrumentation features extended-range seven- and eight-string guitars, intricate bass work, and complex programmed or live drumming patterns built on syncopated, elastic rhythmic interplay. Production is characteristically clean and modern, emphasizing clarity of each rhythmic layer and often incorporating ambient textures, electronic elements, and soaring clean vocal melodies. Djent was among the first metal subgenres to develop primarily through internet culture, with bedroom producers sharing material on forums and social media platforms. The movement spawned a global community of technically proficient musicians and influenced adjacent genres including metalcore, deathcore, and progressive rock.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Meshuggah | obZen | 2008 | As the architects of the sound, Meshuggah defines the genre through "Bleed," showcasing the signature high-gain, palm-muted polyrhythmic patterns and mechanical precision. Other essential works include Destroy Erase Improve and Nothing. |

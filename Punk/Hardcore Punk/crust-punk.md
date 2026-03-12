@@ -1,3 +1,7 @@
+# Crust Punk
+
+Crust punk is an extreme subgenre that fuses the raw political fury of anarcho-punk with the heaviness and dark atmospheres of early metal, particularly the influence of bands like Celtic Frost, Motorhead, and Discharge. Emerging in the mid-1980s primarily in the UK, the genre is defined by its thick, downtuned guitar distortion, relentless d-beat drumming, harsh growled or screamed vocals, and a deliberately filthy production aesthetic that earned the related tag "stenchcore." The instrumentation is aggressive and unrelenting, with songs often cycling between blasting d-beat sections and crushing, sludge-influenced breakdowns. Lyrically, crust punk is overwhelmingly focused on anarchist politics, anti-war sentiment, environmental destruction, and apocalyptic imagery, reflecting a worldview rooted in radical DIY culture and squatter communities. The genre has continued to evolve through substrains like neo-crust, which adds melodic guitar leads, and blackened crust, which incorporates tremolo picking and blast beats from black metal, ensuring its place as one of the heaviest and most uncompromising corners of the punk spectrum.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Amebix | Arise! | 1985 | Often cited as the blueprint for crust, this album blends the aggression of anarcho-punk with the dark, heavy atmosphere of early Celtic Frost. Its mid-tempo "chugging" riffs and apocalyptic lyrics established the genre's grim aesthetic; other essential works include Monolith. |

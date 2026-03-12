@@ -1,3 +1,7 @@
+# Post-Grunge
+
+Post-grunge emerged in the mid-1990s as a more commercially polished successor to the raw Seattle grunge sound, retaining the heavy, detuned guitar riffs and angst-driven vocal delivery while smoothing out the abrasive edges with radio-friendly production and more conventional song structures. The genre is defined by its thick, mid-tempo guitar crunch, baritone-to-raspy vocal performances, and a formula that alternates between brooding verses and anthemic, distorted choruses. Instrumentation follows a standard rock setup but emphasizes drop-tuned guitars, layered overdubs, and a clean-to-heavy dynamic that became the blueprint for late-1990s and early-2000s rock radio. Lyrically, post-grunge traded grunge's raw nihilism for more accessible themes of personal struggle, relationships, and self-empowerment, often delivered with an earnest sincerity that courted both devotion and criticism. Originating with bands like Bush, Candlebox, and Collective Soul, the genre dominated mainstream rock for over a decade and spawned numerous regional variations, from the Southern-tinged hard rock of 3 Doors Down to the metal-adjacent heaviness of Breaking Benjamin.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Bush | Sixteen Stone | 1994 | This album refined the Seattle sound into a polished, radio-ready format with thick, distorted guitar riffs and melodic hooks. It remains a quintessential bridge between raw grunge and commercial alternative rock; other essential listens include Razorblade Suitcase. |

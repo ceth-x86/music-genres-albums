@@ -1,3 +1,7 @@
+# Heavy Metal
+
+Heavy metal emerged in the late 1960s and early 1970s from the heavier end of blues rock and psychedelic rock, with Black Sabbath, Deep Purple, and Led Zeppelin laying its foundation. The genre is defined by loud, distorted electric guitars, emphatic rhythms, dense bass-and-drum sound, and powerful vocals that range from operatic highs to gritty mid-range delivery. Riffs built on minor keys and the tritone interval create the dark, foreboding atmosphere that distinguishes heavy metal from hard rock. Typical instrumentation centers on dual electric guitars providing both rhythm and lead, bass guitar, drums with double-kick patterns, and occasionally keyboards for atmospheric effect. The New Wave of British Heavy Metal in the late 1970s and early 1980s refined the sound, adding speed, twin-guitar harmonies, and a more polished production aesthetic. Heavy metal culture carries a strong identity expressed through album artwork, leather-and-denim fashion, and a devoted global fanbase that has sustained the genre across five decades.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Black Sabbath | Paranoid | 1970 | The blueprint for the entire genre, featuring Tony Iommi's downtuned, crushing riffs and Ozzy Osbourne's eerie vocals. It established the dark, heavy atmosphere and minor-key focus that define heavy metal. Other essentials: Black Sabbath and Master of Reality. |

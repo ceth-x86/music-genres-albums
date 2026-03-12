@@ -1,3 +1,7 @@
+# Skate Punk
+
+Skate punk is a high-velocity subgenre of punk rock that emerged in the early 1980s from the Southern California skateboarding scene, where the physical intensity of skating demanded an equally relentless musical counterpart. The sound is characterized by breakneck tempos, tight palm-muted guitar riffs, rapid-fire "skank" drum beats, and melodic vocal harmonies that distinguish it from the rawer aggression of hardcore. Early pioneers like JFA, Suicidal Tendencies, and The Faction tied the music directly to skate culture, while 1990s bands on Fat Wreck Chords and Epitaph Records refined the style into a technically proficient, polished form featuring complex drum fills and dual-guitar harmonies. Lyrically, the genre ranges from the carefree celebration of skateboard culture and youthful rebellion to sharp political commentary and satirical humor. Skate punk's influence on the broader punk landscape is immense, serving as a crucial bridge between 1980s hardcore and the melodic punk explosion of the 1990s, and its driving rhythms remain a staple of skate videos and extreme sports culture worldwide.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | The Faction | No-Trend | 1984 | As one of the earliest bands to explicitly link skateboarding with punk, this EP features the raw, mid-tempo aggression and "skate-or-die" lyricism that birthed the scene. Other essential releases include their Darkroom EP and Yesterday Is Gone. |

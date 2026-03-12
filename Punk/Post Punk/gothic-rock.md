@@ -1,3 +1,7 @@
+# Gothic Rock
+
+Gothic rock emerged in the late 1970s and early 1980s as a darker, more atmospheric offshoot of post-punk, trading that movement's angular experimentation for a brooding, dramatic intensity. The genre is defined by cavernous production, prominent and melodic basslines, chorus-drenched guitar work that favors texture over riff, and vocals that range from deep baritones to theatrical wails. Drum machines became a signature element alongside live percussion, lending many recordings a cold, mechanical pulse. Lyrically and aesthetically, gothic rock draws on themes of mortality, romanticism, the occult, and existential dread, accompanied by a distinctive visual culture of dark clothing, pale makeup, and literary references. Originating primarily in the UK with early adopters like Bauhaus, Siouxsie and the Banshees, and The Cure, the genre developed a thriving global scene and club culture that sustained it through multiple waves of revival, from the mid-1980s Sisters of Mercy-led peak through the 1990s underground and into modern revivalist acts.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Bauhaus | In the Flat Field | 1980 | This album established the genre's skeletal framework with jagged guitar lines, prominent dub-influenced bass, and Peter Murphy's dramatic, theatrical vocals. It balances post-punk aggression with a cold, macabre atmosphere; other essential works include Mask and The Sky's Gone Out. |

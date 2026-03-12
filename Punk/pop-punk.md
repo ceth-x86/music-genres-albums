@@ -1,3 +1,7 @@
+# Pop Punk
+
+Pop punk fuses the speed and energy of punk rock with the melodic hooks and song structures of power pop, resulting in a sound that is both aggressive and immediately catchy. Emerging from the early influence of the Ramones and Buzzcocks in the late 1970s, the genre crystallized in the 1990s through bands on labels like Lookout!, Fat Wreck Chords, and Epitaph before exploding into the mainstream with Green Day and Blink-182. The typical instrumentation centers on overdriven electric guitars playing palm-muted verses that open into soaring, sing-along choruses, underpinned by driving bass and rapid-fire drumming. Lyrically, pop punk favors themes of adolescent angst, suburban restlessness, romantic frustration, and self-deprecating humor, delivered with an earnest vocal style that ranges from nasally shouts to polished melodic singing. The genre's cultural footprint extends well beyond music, shaping the visual aesthetic and attitude of 1990s and 2000s youth culture through its association with skate culture, Warped Tour, and a fiercely loyal community of fans.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | The Ramones | Ramones | 1976 | While often labeled "Classic Punk", this debut established the downstroke-heavy power chords and 4/4 bubblegum-influenced melodies that form the DNA of Pop Punk. It prioritizes short, catchy hooks over political complexity, setting the blueprint for the genre's structure. Their other essential works include Leave Home and Rocket to Russia. |

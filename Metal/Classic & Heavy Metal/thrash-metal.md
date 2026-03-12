@@ -1,5 +1,7 @@
 # Thrash Metal
 
+Thrash metal emerged in the early 1980s as a faster, more aggressive offshoot of the New Wave of British Heavy Metal, fused with the raw energy of hardcore punk. Characterized by rapid-fire palm-muted riffing, breakneck tempos, and technically demanding guitar solos, the genre prioritized speed and precision over melody. Vocals typically range from shouted aggression to higher-pitched snarling, often delivering lyrics focused on war, social decay, political corruption, and violence. The rhythm section drives relentlessly, with double-bass drumming and tight, locked-in bass guitar providing a foundation for the cascading riff patterns. The San Francisco Bay Area and the German Teutonic scene became the genre's two primary geographic hubs, producing distinct regional variations in tone and approach. Thrash metal's golden era in the mid-to-late 1980s produced a body of work that remains the benchmark for extreme metal's technical and compositional standards.
+
 | Artist | Album | Year | Why it defines the genre |
 | :--- | :--- | :--- | :--- |
 | Metallica | Master of Puppets | 1986 | The genre standard, combining complex progressive structures, palm-muting technique, and impeccable rhythmic precision. The album cemented thrash's transition from raw speed to compositional maturity; also essential are Ride the Lightning and Kill 'Em All. |
