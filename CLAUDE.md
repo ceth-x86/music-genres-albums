@@ -18,6 +18,7 @@ When the user gives a filename:
 2. **Classify and move** — look up the genre in `utils/classification.yaml` to determine the full parent hierarchy. Create directories for all parent categories, but NOT for the leaf genre itself (it becomes the file). Examples:
    - Slowcore (under Indie Rock) → `Indie Rock/slowcore.md`
    - Atmospheric Black Metal (under Metal → Black Metal) → `Metal/Black Metal/atmospheric-black-metal.md`
+   File names must always use hyphens (`-`), never underscores (`_`). Example: `atmospheric-black-metal.md`, not `atmospheric_black_metal.md`.
    Create directories as needed.
 
 3. **Update README.md** — add a link to the file in `README.md` at the project root, organized by category. New entries must be inserted in the same order as they appear in `utils/classification.yaml` (not alphabetically).
