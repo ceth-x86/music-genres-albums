@@ -91,6 +91,8 @@
 - [Post Rock](Indie%20Rock/post-rock.md)
 - [Indietronica](Indie%20Rock/indietronica.md)
 - [Slowcore](Indie%20Rock/slowcore.md)
+- [Singer-Songwriter](Indie%20Rock/singer-songwriter.md)
+- [Baroque Indie](Indie%20Rock/baroque-indie.md)
 
 ### Dreamy Indie
 
@@ -222,6 +224,7 @@
 - [Acid Techno](Electronic/Techno/acid-techno.md)
 - [Hard Techno](Electronic/Techno/hard-techno.md)
 - [Peak Techno](Electronic/Techno/peak-techno.md)
+- [Hypnotic Techno](Electronic/Techno/hypnotic-techno.md)
 
 ### House
 
@@ -236,7 +239,9 @@
 
 #### Modern Styles
 
+- [Progressive House](Electronic/House/Modern%20Styles/progressive-house.md)
 - [Melodic House](Electronic/House/Modern%20Styles/melodic-house.md)
+- [Minimal House](Electronic/House/Modern%20Styles/minimal-house.md)
 
 ### Trance
 
@@ -248,6 +253,7 @@
 
 ### Hardcore
 
+- [Rotterdam Hardcore](Electronic/Hardcore/rotterdam-hardcore.md)
 - [Happy Hardcore](Electronic/Hardcore/happy-hardcore.md)
 
 ### Downtempo
@@ -271,6 +277,11 @@
 
 - [Aggrotech](Industrial/Harsh%20%26%20Aggressive/aggrotech.md)
 - [Dark Electro](Industrial/Harsh%20%26%20Aggressive/dark-electro.md)
+- [Post-Industrial](Industrial/Harsh%20%26%20Aggressive/post-industrial.md)
+
+### Fusion Styles
+
+- [Industrial Rock](Industrial/Fusion%20Styles/industrial-rock.md)
 
 ## Pop
 
@@ -302,6 +313,10 @@
 - [Contemporary Folk](Folk/contemporary-folk.md)
 
 ## Jazz
+
+### Traditional
+
+- [Swing Jazz](Jazz/Traditional/swing-jazz.md)
 
 ### Modernist
 
