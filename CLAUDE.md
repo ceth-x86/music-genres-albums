@@ -20,7 +20,7 @@ When the user gives a filename:
    - Atmospheric Black Metal (under Metal → Black Metal) → `Metal/Black Metal/atmospheric-black-metal.md`
    Create directories as needed.
 
-3. **Update README.md** — add a link to the file in `README.md` at the project root, organized by category.
+3. **Update README.md** — add a link to the file in `README.md` at the project root, organized by category. New entries must be inserted in the same order as they appear in `utils/classification.yaml` (not alphabetically).
 
 ## "convert" Command
 
