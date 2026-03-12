@@ -168,6 +168,7 @@
 - [Dark Ambient](Electronic/Ambient/dark_ambient.md)
 - [Industrial Ambient](Electronic/Ambient/industrial-ambient.md)
 - [New Age Ambient](Electronic/Ambient/new-age-ambient.md)
+- [Drone / Minimal Ambient](Electronic/Ambient/drone-minimal-ambient.md)
 - [Psybient](Electronic/Ambient/psybient.md)
 - [Space Ambient](Electronic/Ambient/space-ambient.md)
 
@@ -217,6 +218,10 @@
 
 ### House
 
+#### Origins
+
+- [Chicago House](Electronic/House/Origins/chicago-house.md)
+
 #### Deep & Soulful
 
 - [Deep House](Electronic/House/Deep%20%26%20Soulful/deep-house.md)
@@ -229,8 +234,13 @@
 
 - [Classic Trance](Electronic/Trance/classic-trance.md)
 - [Progressive Trance](Electronic/Trance/progressive-trance.md)
+- [Psytrance](Electronic/Trance/psytrance.md)
 - [Tech Trance](Electronic/Trance/tech_trance.md)
 - [Uplifting Trance](Electronic/Trance/uplifting-trance.md)
+
+### Experimental Electronic
+
+- [Noise Electronic](Electronic/Experimental%20Electronic/noise-electronic.md)
 
 ## Pop
 
