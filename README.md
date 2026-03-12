@@ -23,6 +23,7 @@
 ### Progressive Rock
 
 - [Avant-Prog](Rock/Progressive%20Rock/avant_prog.md)
+- [Eclectic Prog](Rock/Progressive%20Rock/eclectic-prog.md)
 - [Krautrock](Rock/Progressive%20Rock/krautrock.md)
 - [Modern Prog Rock](Rock/Progressive%20Rock/modern_prog_rock.md)
 - [Neo-Prog](Rock/Progressive%20Rock/neo_prog.md)
@@ -31,6 +32,7 @@
 
 ### Experimental Rock
 
+- [Art Noise Rock](Rock/Experimental%20Rock/art-noise-rock.md)
 - [Avant-Garde Rock](Rock/Experimental%20Rock/avant-garde-rock.md)
 - [Noise Rock](Rock/Experimental%20Rock/noise_rock.md)
 
@@ -43,11 +45,14 @@
 ### Experimental Alt Rock
 
 - [Electronic Rock](Alternative%20Rock/Experimental%20Alt%20Rock/electronic_rock.md)
+- [Math Rock](Alternative%20Rock/Experimental%20Alt%20Rock/math-rock.md)
 
 ## Indie Rock
 
+- [Bedroom Pop](Indie%20Rock/bedroom-pop.md)
 - [Indie Pop](Indie%20Rock/indie_pop.md)
 - [Indie Rock](Indie%20Rock/indie_rock.md)
+- [Jangle Pop](Indie%20Rock/jangle-pop.md)
 - [Indietronica](Indie%20Rock/indietronica.md)
 - [Post Rock](Indie%20Rock/post_rock.md)
 - [Indie Folk](Indie%20Rock/indie_folk.md)
@@ -90,14 +95,20 @@
 
 ### Other Styles
 
+- [Folk Metal](Metal/Other%20Styles/folk-metal.md)
 - [Post Metal](Metal/Other%20Styles/post_metal.md)
 - [Power Metal](Metal/Other%20Styles/power_metal.md)
 - [Symphonic Metal](Metal/Other%20Styles/symphonic_metal.md)
+
+#### Gothic Metal
+
+- [Doom Gothic Metal](Metal/Other%20Styles/Gothic%20Metal/doom-gothic-metal.md)
 
 ### Black Metal
 
 - [Atmospheric Black Metal](Metal/Black%20Metal/atmospheric_black_metal.md)
 - [Raw Black Metal](Metal/Black%20Metal/raw-black-metal.md)
+- [Symphonic Black Metal](Metal/Black%20Metal/symphonic-black-metal.md)
 
 #### Post Black Metal
 
@@ -108,6 +119,11 @@
 - [Doom Metal](Metal/Doom%20%26%20Sludge/doom_metal.md)
 - [Sludge Metal](Metal/Doom%20%26%20Sludge/sludge_metal.md)
 
+#### Doom Metal
+
+- [Death Doom](Metal/Doom%20%26%20Sludge/Doom%20Metal/death-doom.md)
+- [Funeral Doom](Metal/Doom%20%26%20Sludge/Doom%20Metal/funeral-doom.md)
+
 ## Punk
 
 - [Classic Punk](Punk/classic_punk.md)
@@ -115,12 +131,15 @@
 
 ### Post Punk
 
+- [Coldwave](Punk/Post%20Punk/coldwave.md)
 - [Darkwave](Punk/Post%20Punk/darkwave.md)
 - [Gothic Rock](Punk/Post%20Punk/gothic_rock.md)
 - [New Wave](Punk/Post%20Punk/new_wave.md)
 - [Post-Punk Revival](Punk/Post%20Punk/post-punk-revival.md)
 
 ### Hardcore Punk
+
+- [Melodic Hardcore](Punk/Hardcore%20Punk/melodic-hardcore.md)
 
 #### Post Hardcore
 
@@ -189,6 +208,12 @@
 
 - [Dance Pop](Pop/Mainstream%20Pop/dance_pop.md)
 - [Electropop](Pop/Mainstream%20Pop/electropop.md)
+
+## Industrial
+
+### EBM and related
+
+- [EBM](Industrial/EBM%20and%20related/ebm.md)
 
 ## Dark Folk
 
