@@ -11,6 +11,7 @@
 - [Glam Rock](Rock/glam_rock.md)
 - [Hard Rock](Rock/hard_rock.md)
 - [Psychedelic Rock](Rock/psychedelic_rock.md)
+- [Southern Rock](Rock/southern-rock.md)
 - [Stoner Rock](Rock/stoner-rock.md)
 
 ### Psychedelic Rock
@@ -143,6 +144,7 @@
 
 - [Classic Punk](Punk/classic_punk.md)
 - [Pop Punk](Punk/pop_punk.md)
+- [Skate Punk](Punk/skate-punk.md)
 
 ### Post Punk
 
@@ -154,6 +156,7 @@
 
 ### Hardcore Punk
 
+- [Crust Punk](Punk/Hardcore%20Punk/crust-punk.md)
 - [Mathcore](Punk/Hardcore%20Punk/mathcore.md)
 - [Melodic Hardcore](Punk/Hardcore%20Punk/melodic-hardcore.md)
 
@@ -290,6 +293,7 @@
 - [Neoclassical Folk](Dark%20Folk/neoclassical-folk.md)
 - [Psychedelic Dark Folk](Dark%20Folk/psychedelic-dark-folk.md)
 - [Ritual Folk](Dark%20Folk/ritual-folk.md)
+- [Industrial Folk](Dark%20Folk/industrial-folk.md)
 - [Romantic Folk](Dark%20Folk/romantic-folk.md)
 
 ## R&B Soul
@@ -323,6 +327,12 @@
 ### Experimental
 
 - [Avant-Garde Jazz](Jazz/Experimental/avant-garde-jazz.md)
+- [Free Jazz](Jazz/Experimental/free-jazz.md)
+
+### Fusion & Contemporary
+
+- [Jazz Rock](Jazz/Fusion%20%26%20Contemporary/jazz-rock.md)
+- [Nu Jazz](Jazz/Fusion%20%26%20Contemporary/nu-jazz.md)
 
 ### Modernist
 
