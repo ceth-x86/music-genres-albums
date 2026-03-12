@@ -122,6 +122,7 @@
 
 #### Post Black Metal
 
+- [Avantgarde Black Metal](Metal/Black%20Metal/Post%20Black%20Metal/avantgarde-black-metal.md)
 - [Blackgaze](Metal/Black%20Metal/Post%20Black%20Metal/blackgaze.md)
 
 ### Doom & Sludge
@@ -150,6 +151,7 @@
 
 ### Hardcore Punk
 
+- [Mathcore](Punk/Hardcore%20Punk/mathcore.md)
 - [Melodic Hardcore](Punk/Hardcore%20Punk/melodic-hardcore.md)
 
 #### Post Hardcore
@@ -165,11 +167,17 @@
 - [Classic Ambient](Electronic/Ambient/classic_ambient.md)
 - [Dark Ambient](Electronic/Ambient/dark_ambient.md)
 - [Industrial Ambient](Electronic/Ambient/industrial-ambient.md)
+- [Psybient](Electronic/Ambient/psybient.md)
 
 ### Electro
 
 - [Classic Electro](Electronic/Electro/classic_electro.md)
 - [Dark Electro / Electro Techno](Electronic/Electro/dark-electro-techno.md)
+
+### Bass Music
+
+- [Dubstep](Electronic/Bass%20Music/dubstep.md)
+- [Jungle](Electronic/Bass%20Music/jungle.md)
 
 ### Techno
 
