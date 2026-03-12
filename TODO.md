@@ -2,55 +2,27 @@
 
 ## Electronic
 
-### Bass Music
-- Trap
-
-### Techno
-- Rave Techno
-
 ### House
-
-#### Origins
-- Garage
 
 #### Deep & Soulful
 - Soulful House
 - Afro House
-- Tribal House
 
 #### Modern Styles
 - Italo House
-- Tech House
 - Funky House
-- Bass House
 - Lo Fi House
-- Ghetto House
 - Tropical House
-
-### Trance
-- Vocal Trance
-- Acid Trance
-- Balearic Trance
 
 ### Hardcore
 - Gabber
+- Industrial Hardcore
 - Terrorcore
 - Speedcore
 - Frenchcore
-- Breakcore
-- Digital Hardcore
 
 ### Downtempo
 - Chillout
-- Lo-Fi Electronic
-
-## Industrial
-
-### Fusion Styles
-- Electroclash
-
-### Thematic
-- Witch House
 
 ## Pop
 - Teen Pop
@@ -58,8 +30,6 @@
 - K-Pop / J-Pop
 
 ## Dark Folk
-- Pagan Folk
-- Occult Folk
 - Gothic Americana
 - Forest Folk
 
@@ -71,14 +41,10 @@
 ### Traditional
 - Dixieland Jazz
 
-### Modernist
-- Post Bop
-
 ### Experimental
 - Third Stream
 
 ### Fusion & Contemporary
-- Acid Jazz
 - Electro Jazz
 - Jazz Funk
 - Spiritual Jazz
@@ -102,7 +68,6 @@
 
 ### Styles
 - Gangsta Rap
-- Conscious Hip-Hop
 - Jazz Rap
 - Boom Bap
 - Mumble Rap
@@ -122,9 +87,7 @@
 - Northern Soul
 
 ### Modern Styles
-- Neo-Soul
 - New Jack Swing
-- Quiet Storm
 - Smooth R&B
 - PBR&B (Post-Dubstep R&B)
 - Hip-Hop Soul
@@ -132,5 +95,4 @@
 ### Related Styles
 - Funk
 - Psychedelic Soul
-- Blue-Eyed Soul
 - Gospel

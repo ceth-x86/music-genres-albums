@@ -59,6 +59,7 @@
 
 ### Hardcore Punk
 
+- [Youth Crew](Punk/Hardcore%20Punk/youth-crew.md)
 - [Melodic Hardcore](Punk/Hardcore%20Punk/melodic-hardcore.md)
 - [Crust Punk](Punk/Hardcore%20Punk/crust-punk.md)
 - [Mathcore](Punk/Hardcore%20Punk/mathcore.md)
@@ -193,6 +194,7 @@
 - [Drum and Bass](Electronic/Bass%20Music/drum-and-bass.md)
 - [Jungle](Electronic/Bass%20Music/jungle.md)
 - [Dubstep](Electronic/Bass%20Music/dubstep.md)
+- [Trap](Electronic/Bass%20Music/trap.md)
 
 ### Ambient
 
@@ -225,6 +227,7 @@
 - [Hard Techno](Electronic/Techno/hard-techno.md)
 - [Peak Techno](Electronic/Techno/peak-techno.md)
 - [Hypnotic Techno](Electronic/Techno/hypnotic-techno.md)
+- [Rave Techno](Electronic/Techno/rave-techno.md)
 
 ### House
 
@@ -239,9 +242,12 @@
 
 #### Modern Styles
 
+- [Tech House](Electronic/House/Modern%20Styles/tech-house.md)
+- [Electro House](Electronic/House/Modern%20Styles/electro-house.md)
 - [Progressive House](Electronic/House/Modern%20Styles/progressive-house.md)
 - [Melodic House](Electronic/House/Modern%20Styles/melodic-house.md)
 - [Minimal House](Electronic/House/Modern%20Styles/minimal-house.md)
+- [Future House](Electronic/House/Modern%20Styles/future-house.md)
 
 ### Trance
 
@@ -250,11 +256,13 @@
 - [Progressive Trance](Electronic/Trance/progressive-trance.md)
 - [Psytrance](Electronic/Trance/psytrance.md)
 - [Tech Trance](Electronic/Trance/tech-trance.md)
+- [Hard Trance](Electronic/Trance/hard-trance.md)
 
 ### Hardcore
 
 - [Rotterdam Hardcore](Electronic/Hardcore/rotterdam-hardcore.md)
 - [Happy Hardcore](Electronic/Hardcore/happy-hardcore.md)
+- [Mainstream Hardcore](Electronic/Hardcore/mainstream-hardcore.md)
 
 ### Downtempo
 
@@ -262,6 +270,7 @@
 
 ### Experimental Electronic
 
+- [Leftfield](Electronic/Experimental%20Electronic/leftfield.md)
 - [Glitch Hop](Electronic/Experimental%20Electronic/glitch-hop.md)
 - [Noise Electronic](Electronic/Experimental%20Electronic/noise-electronic.md)
 
@@ -277,11 +286,18 @@
 
 - [Aggrotech](Industrial/Harsh%20%26%20Aggressive/aggrotech.md)
 - [Dark Electro](Industrial/Harsh%20%26%20Aggressive/dark-electro.md)
+- [Power Noise](Industrial/Harsh%20%26%20Aggressive/power-noise.md)
+- [Power Electronic](Industrial/Harsh%20%26%20Aggressive/power-electronic.md)
+- [Industrial Noise](Industrial/Harsh%20%26%20Aggressive/industrial-noise.md)
 - [Post-Industrial](Industrial/Harsh%20%26%20Aggressive/post-industrial.md)
 
 ### Fusion Styles
 
 - [Industrial Rock](Industrial/Fusion%20Styles/industrial-rock.md)
+
+### Thematic
+
+- [Martial Industrial](Industrial/Thematic/martial-industrial.md)
 
 ## Pop
 
@@ -297,6 +313,8 @@
 - [Electropop](Pop/Mainstream%20Pop/electropop.md)
 - [Bubblegum Pop](Pop/Mainstream%20Pop/bubblegum-pop.md)
 
+- [Adult Contemporary](Pop/adult-contemporary.md)
+
 ## Dark Folk
 
 - [Apocalyptic Folk](Dark%20Folk/apocalyptic-folk.md)
@@ -304,6 +322,7 @@
 - [Romantic Folk](Dark%20Folk/romantic-folk.md)
 - [Industrial Folk](Dark%20Folk/industrial-folk.md)
 - [Ritual Folk](Dark%20Folk/ritual-folk.md)
+- [Pagan Folk](Dark%20Folk/pagan-folk.md)
 - [Psychedelic Dark Folk](Dark%20Folk/psychedelic-dark-folk.md)
 - [Neoclassical Folk](Dark%20Folk/neoclassical-folk.md)
 
@@ -324,6 +343,7 @@
 - [Cool Jazz](Jazz/Modernist/cool-jazz.md)
 - [Hard Bop](Jazz/Modernist/hard-bop.md)
 - [Modal Jazz](Jazz/Modernist/modal-jazz.md)
+- [Post Bop](Jazz/Modernist/post-bop.md)
 
 ### Experimental
 
@@ -332,6 +352,7 @@
 
 ### Fusion & Contemporary
 
+- [Jazz Fusion](Jazz/Fusion%20%26%20Contemporary/jazz-fusion.md)
 - [Jazz Rock](Jazz/Fusion%20%26%20Contemporary/jazz-rock.md)
 - [Nu Jazz](Jazz/Fusion%20%26%20Contemporary/nu-jazz.md)
 
@@ -340,10 +361,15 @@
 ### Styles
 
 - [Alternative Hip-Hop](Hip-Hop%20Rap/Styles/alternative-hip-hop.md)
+- [Industrial Hip-Hop](Hip-Hop%20Rap/Styles/industrial-hip-hop.md)
 - [Underground Hip-Hop](Hip-Hop%20Rap/Styles/underground-hip-hop.md)
 - [Experimental Hip-Hop](Hip-Hop%20Rap/Styles/experimental-hip-hop.md)
 
 ## R&B Soul
+
+### Classic Styles
+
+- [Classic Soul](R%26B%20Soul/Classic%20Styles/classic-soul.md)
 
 ### Modern Styles
 
@@ -355,3 +381,4 @@
 
 - [Classic Disco](R%26B%20Soul/Related%20Styles/Disco/classic-disco.md)
 - [Euro Disco](R%26B%20Soul/Related%20Styles/Disco/euro-disco.md)
+- [Nu-Disco](R%26B%20Soul/Related%20Styles/Disco/nu-disco.md)
