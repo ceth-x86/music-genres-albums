@@ -29,6 +29,7 @@
 - [Avant-Prog](Rock/Progressive%20Rock/avant_prog.md)
 - [Canterbury Scene](Rock/Progressive%20Rock/canterbury-scene.md)
 - [Eclectic Prog](Rock/Progressive%20Rock/eclectic-prog.md)
+- [Jazz Rock Prog](Rock/Progressive%20Rock/jazz-rock-prog.md)
 - [Krautrock](Rock/Progressive%20Rock/krautrock.md)
 - [Modern Prog Rock](Rock/Progressive%20Rock/modern_prog_rock.md)
 - [Neo-Prog](Rock/Progressive%20Rock/neo_prog.md)
@@ -50,6 +51,7 @@
 
 ### Experimental Alt Rock
 
+- [Crossover Rock](Alternative%20Rock/Experimental%20Alt%20Rock/crossover-rock.md)
 - [Electronic Rock](Alternative%20Rock/Experimental%20Alt%20Rock/electronic_rock.md)
 - [Math Rock](Alternative%20Rock/Experimental%20Alt%20Rock/math-rock.md)
 
@@ -283,7 +285,20 @@
 
 - [Apocalyptic Folk](Dark%20Folk/apocalyptic_folk.md)
 - [Martial Folk](Dark%20Folk/martial-folk.md)
+- [Ritual Folk](Dark%20Folk/ritual-folk.md)
 - [Romantic Folk](Dark%20Folk/romantic-folk.md)
+
+## R&B Soul
+
+### Modern Styles
+
+- [Contemporary R&B](R%26B%20Soul/Modern%20Styles/contemporary-rnb.md)
+
+### Related Styles
+
+#### Disco
+
+- [Classic Disco](R%26B%20Soul/Related%20Styles/Disco/classic-disco.md)
 
 ## Jazz
 
