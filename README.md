@@ -218,6 +218,7 @@
 - [Dream Synthpop](Electronic/Synthpop/dream-synthpop.md)
 - [Electroclash](Electronic/Synthpop/electroclash.md)
 - [Indie Synthpop](Electronic/Synthpop/indie-synthpop.md)
+- [Synthwave / Retrowave](Electronic/Synthpop/synthwave-retrowave.md)
 
 ### House
 
@@ -252,6 +253,7 @@
 
 ### Experimental Electronic
 
+- [Glitch Hop](Electronic/Experimental%20Electronic/glitch-hop.md)
 - [Noise Electronic](Electronic/Experimental%20Electronic/noise-electronic.md)
 
 ## Pop
@@ -307,9 +309,20 @@
 
 ### Styles
 
+- [Alternative Hip-Hop](Hip-Hop%20Rap/Styles/alternative-hip-hop.md)
 - [Experimental Hip-Hop](Hip-Hop%20Rap/Styles/experimental-hip-hop.md)
+- [Underground Hip-Hop](Hip-Hop%20Rap/Styles/underground-hip-hop.md)
+
+## Folk
+
+- [Contemporary Folk](Folk/contemporary-folk.md)
+- [Traditional Folk](Folk/traditional-folk.md)
 
 ## Jazz
+
+### Experimental
+
+- [Avant-Garde Jazz](Jazz/Experimental/avant-garde-jazz.md)
 
 ### Modernist
 

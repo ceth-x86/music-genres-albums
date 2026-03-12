@@ -2,11 +2,11 @@ You are a professional music archivist and genre classification expert. Your tas
 
 Classification Context: I am using a strict hierarchical genre structure. It is crucial that the selected albums represent the "pure" sound of the requested genre, minimizing overlap with sibling genres in the same branch.
 
-Genre for Selection: [Contemporary Folk]
+Genre for Selection: [Jazz Rock]
 
 Your Task:
 
-Compile a list of 50 albums that define the core sound of this genre.
+Compile a list of 30 albums that define the core sound of this genre.
 
 Selection Criteria: Each album must be an archetypal example of the genre. Avoid albums that lean too heavily into adjacent subgenres.
 
