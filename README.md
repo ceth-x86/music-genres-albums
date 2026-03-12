@@ -167,6 +167,7 @@
 - [Classic Ambient](Electronic/Ambient/classic_ambient.md)
 - [Dark Ambient](Electronic/Ambient/dark_ambient.md)
 - [Industrial Ambient](Electronic/Ambient/industrial-ambient.md)
+- [New Age Ambient](Electronic/Ambient/new-age-ambient.md)
 - [Psybient](Electronic/Ambient/psybient.md)
 
 ### Electro
@@ -176,14 +177,17 @@
 
 ### Bass Music
 
+- [Drum and Bass](Electronic/Bass%20Music/drum-and-bass.md)
 - [Dubstep](Electronic/Bass%20Music/dubstep.md)
 - [Jungle](Electronic/Bass%20Music/jungle.md)
 
 ### Techno
 
+- [Acid Techno](Electronic/Techno/acid-techno.md)
 - [Berlin Techno](Electronic/Techno/berlin-techno.md)
 - [Detroit Techno](Electronic/Techno/detroit-techno.md)
 - [Dub Techno](Electronic/Techno/dub_techno.md)
+- [Hard Techno](Electronic/Techno/hard-techno.md)
 - [Melodic Techno](Electronic/Techno/melodic_techno.md)
 - [Minimal Techno](Electronic/Techno/minimal-techno.md)
 - [Peak Techno](Electronic/Techno/peak_techno.md)
@@ -207,6 +211,7 @@
 - [Classic Synthpop](Electronic/Synthpop/classic_synthpop.md)
 - [Dark Synthpop](Electronic/Synthpop/dark-synthpop.md)
 - [Electroclash](Electronic/Synthpop/electroclash.md)
+- [Indie Synthpop](Electronic/Synthpop/indie-synthpop.md)
 
 ### House
 
