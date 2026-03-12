@@ -169,6 +169,7 @@
 - [Industrial Ambient](Electronic/Ambient/industrial-ambient.md)
 - [New Age Ambient](Electronic/Ambient/new-age-ambient.md)
 - [Psybient](Electronic/Ambient/psybient.md)
+- [Space Ambient](Electronic/Ambient/space-ambient.md)
 
 ### Electro
 
@@ -210,10 +211,15 @@
 
 - [Classic Synthpop](Electronic/Synthpop/classic_synthpop.md)
 - [Dark Synthpop](Electronic/Synthpop/dark-synthpop.md)
+- [Dream Synthpop](Electronic/Synthpop/dream-synthpop.md)
 - [Electroclash](Electronic/Synthpop/electroclash.md)
 - [Indie Synthpop](Electronic/Synthpop/indie-synthpop.md)
 
 ### House
+
+#### Deep & Soulful
+
+- [Deep House](Electronic/House/Deep%20%26%20Soulful/deep-house.md)
 
 #### Modern Styles
 
@@ -222,7 +228,9 @@
 ### Trance
 
 - [Classic Trance](Electronic/Trance/classic-trance.md)
+- [Progressive Trance](Electronic/Trance/progressive-trance.md)
 - [Tech Trance](Electronic/Trance/tech_trance.md)
+- [Uplifting Trance](Electronic/Trance/uplifting-trance.md)
 
 ## Pop
 
