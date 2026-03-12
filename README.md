@@ -92,6 +92,7 @@
 - [Post Rock](Indie%20Rock/post-rock.md)
 - [Indietronica](Indie%20Rock/indietronica.md)
 - [Slowcore](Indie%20Rock/slowcore.md)
+- [Indie Psychedelia](Indie%20Rock/indie-psychedelia.md)
 - [Singer-Songwriter](Indie%20Rock/singer-songwriter.md)
 - [Baroque Indie](Indie%20Rock/baroque-indie.md)
 
@@ -195,6 +196,7 @@
 - [Jungle](Electronic/Bass%20Music/jungle.md)
 - [Dubstep](Electronic/Bass%20Music/dubstep.md)
 - [Trap](Electronic/Bass%20Music/trap.md)
+- [Future Bass](Electronic/Bass%20Music/future-bass.md)
 
 ### Ambient
 
@@ -227,6 +229,7 @@
 - [Hard Techno](Electronic/Techno/hard-techno.md)
 - [Peak Techno](Electronic/Techno/peak-techno.md)
 - [Hypnotic Techno](Electronic/Techno/hypnotic-techno.md)
+- [Schranz](Electronic/Techno/schranz.md)
 - [Rave Techno](Electronic/Techno/rave-techno.md)
 
 ### House
@@ -235,6 +238,7 @@
 
 - [Chicago House](Electronic/House/Origins/chicago-house.md)
 - [Acid House](Electronic/House/Origins/acid-house.md)
+- [Garage](Electronic/House/Origins/garage.md)
 
 #### Deep & Soulful
 
@@ -244,6 +248,7 @@
 
 - [Tech House](Electronic/House/Modern%20Styles/tech-house.md)
 - [Electro House](Electronic/House/Modern%20Styles/electro-house.md)
+- [Euro House](Electronic/House/Modern%20Styles/euro-house.md)
 - [Progressive House](Electronic/House/Modern%20Styles/progressive-house.md)
 - [Melodic House](Electronic/House/Modern%20Styles/melodic-house.md)
 - [Minimal House](Electronic/House/Modern%20Styles/minimal-house.md)
@@ -256,17 +261,22 @@
 - [Progressive Trance](Electronic/Trance/progressive-trance.md)
 - [Psytrance](Electronic/Trance/psytrance.md)
 - [Tech Trance](Electronic/Trance/tech-trance.md)
+- [Vocal Trance](Electronic/Trance/vocal-trance.md)
 - [Hard Trance](Electronic/Trance/hard-trance.md)
+- [Acid Trance](Electronic/Trance/acid-trance.md)
+- [Balearic Trance](Electronic/Trance/balearic-trance.md)
 
 ### Hardcore
 
 - [Rotterdam Hardcore](Electronic/Hardcore/rotterdam-hardcore.md)
+- [Breakcore](Electronic/Hardcore/breakcore.md)
 - [Happy Hardcore](Electronic/Hardcore/happy-hardcore.md)
 - [Mainstream Hardcore](Electronic/Hardcore/mainstream-hardcore.md)
 
 ### Downtempo
 
 - [Trip-Hop](Electronic/Downtempo/trip-hop.md)
+- [Lo-Fi Electronic](Electronic/Downtempo/lo-fi-electronic.md)
 
 ### Experimental Electronic
 
@@ -298,6 +308,7 @@
 ### Thematic
 
 - [Martial Industrial](Industrial/Thematic/martial-industrial.md)
+- [Witch House](Industrial/Thematic/witch-house.md)
 
 ## Pop
 
@@ -323,6 +334,7 @@
 - [Industrial Folk](Dark%20Folk/industrial-folk.md)
 - [Ritual Folk](Dark%20Folk/ritual-folk.md)
 - [Pagan Folk](Dark%20Folk/pagan-folk.md)
+- [Occult Folk](Dark%20Folk/occult-folk.md)
 - [Psychedelic Dark Folk](Dark%20Folk/psychedelic-dark-folk.md)
 - [Neoclassical Folk](Dark%20Folk/neoclassical-folk.md)
 
@@ -374,6 +386,8 @@
 ### Modern Styles
 
 - [Contemporary R&B](R%26B%20Soul/Modern%20Styles/contemporary-rnb.md)
+- [Quiet Storm](R%26B%20Soul/Modern%20Styles/quiet-storm.md)
+- [Alternative R&B](R%26B%20Soul/Modern%20Styles/alternative-rnb.md)
 
 ### Related Styles
 

@@ -9,8 +9,15 @@
 
 When the user gives a filename:
 
-1. **Convert to Markdown** — the file is CSV-like (Artist,Album,Year,Description). Convert it into a proper markdown table:
+1. **Convert to Markdown** — the file is CSV-like (Artist,Album,Year,Description). Convert it into a proper markdown file with:
+   - A `# Genre Name` heading
+   - A genre description (5-6 sentences covering sound, origins, instrumentation, and distinguishing features)
+   - The album table:
    ```
+   # Genre Name
+
+   Description paragraph (5-6 sentences).
+
    | Artist | Album | Year | Why it defines the genre |
    | :--- | :--- | :--- | :--- |
    ```
