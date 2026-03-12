@@ -39,6 +39,7 @@
 ## Alternative Rock
 
 - [Britpop](Alternative%20Rock/britpop.md)
+- [Dance-Punk](Alternative%20Rock/dance-punk.md)
 - [Grunge](Alternative%20Rock/grunge.md)
 - [Post Grunge](Alternative%20Rock/post_grunge.md)
 
@@ -96,6 +97,7 @@
 ### Other Styles
 
 - [Folk Metal](Metal/Other%20Styles/folk-metal.md)
+- [Gothic Metal](Metal/Other%20Styles/gothic-metal.md)
 - [Post Metal](Metal/Other%20Styles/post_metal.md)
 - [Power Metal](Metal/Other%20Styles/power_metal.md)
 - [Symphonic Metal](Metal/Other%20Styles/symphonic_metal.md)
@@ -107,6 +109,7 @@
 ### Black Metal
 
 - [Atmospheric Black Metal](Metal/Black%20Metal/atmospheric_black_metal.md)
+- [Melodic Black Metal](Metal/Black%20Metal/melodic-black-metal.md)
 - [Raw Black Metal](Metal/Black%20Metal/raw-black-metal.md)
 - [Symphonic Black Metal](Metal/Black%20Metal/symphonic-black-metal.md)
 
@@ -118,6 +121,7 @@
 
 - [Doom Metal](Metal/Doom%20%26%20Sludge/doom_metal.md)
 - [Sludge Metal](Metal/Doom%20%26%20Sludge/sludge_metal.md)
+- [Stoner Metal](Metal/Doom%20%26%20Sludge/stoner-metal.md)
 
 #### Doom Metal
 
@@ -158,6 +162,7 @@
 ### Electro
 
 - [Classic Electro](Electronic/Electro/classic_electro.md)
+- [Dark Electro / Electro Techno](Electronic/Electro/dark-electro-techno.md)
 
 ### Techno
 
@@ -185,6 +190,8 @@
 ### Synthpop
 
 - [Classic Synthpop](Electronic/Synthpop/classic_synthpop.md)
+- [Dark Synthpop](Electronic/Synthpop/dark-synthpop.md)
+- [Electroclash](Electronic/Synthpop/electroclash.md)
 
 ### House
 
