@@ -13,6 +13,10 @@
 - [Psychedelic Rock](Rock/psychedelic_rock.md)
 - [Stoner Rock](Rock/stoner-rock.md)
 
+### Psychedelic Rock
+
+- [Neo-Psychedelia](Rock/Psychedelic%20Rock/neo-psychedelia.md)
+
 ### Mainstream Rock
 
 - [College Rock](Rock/Mainstream%20Rock/college-rock.md)
@@ -89,6 +93,7 @@
 
 ### Death Metal
 
+- [Brutal Death Metal](Metal/Death%20Metal/brutal-death-metal.md)
 - [Melodic Death Metal](Metal/Death%20Metal/melodic_death_metal.md)
 - [Old School Death Metal](Metal/Death%20Metal/old-school-death-metal.md)
 - [Progressive Death Metal](Metal/Death%20Metal/progressive_death_metal.md)
@@ -96,11 +101,13 @@
 
 ### Other Styles
 
+- [Avantgarde Metal](Metal/Other%20Styles/avantgarde-metal.md)
 - [Folk Metal](Metal/Other%20Styles/folk-metal.md)
 - [Gothic Metal](Metal/Other%20Styles/gothic-metal.md)
 - [Post Metal](Metal/Other%20Styles/post_metal.md)
 - [Power Metal](Metal/Other%20Styles/power_metal.md)
 - [Symphonic Metal](Metal/Other%20Styles/symphonic_metal.md)
+- [Viking Metal](Metal/Other%20Styles/viking-metal.md)
 
 #### Gothic Metal
 
