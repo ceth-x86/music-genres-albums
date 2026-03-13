@@ -1,21 +1,5 @@
 # TODO — Missing Genres
 
-## Electronic
-
-### House
-
-#### Modern Styles
-- Italo House
-- Tropical House
-
-### Hardcore
-- Terrorcore
-
-## Pop
-- Teen Pop
-- Hyper Pop
-- K-Pop / J-Pop
-
 ## Jazz
 
 ### Traditional
@@ -58,5 +42,4 @@
 ### Modern Styles
 - New Jack Swing
 - Smooth R&B
-- PBR&B (Post-Dubstep R&B)
 

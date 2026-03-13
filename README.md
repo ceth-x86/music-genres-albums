@@ -250,6 +250,7 @@
 
 #### Modern Styles
 
+- [Italo House](Electronic/House/Modern%20Styles/italo-house.md)
 - [Tech House](Electronic/House/Modern%20Styles/tech-house.md)
 - [Funky House](Electronic/House/Modern%20Styles/funky-house.md)
 - [Electro House](Electronic/House/Modern%20Styles/electro-house.md)
@@ -261,6 +262,7 @@
 - [Future House](Electronic/House/Modern%20Styles/future-house.md)
 - [Lo-Fi House](Electronic/House/Modern%20Styles/lo-fi-house.md)
 - [Ghetto House](Electronic/House/Modern%20Styles/ghetto-house.md)
+- [Tropical House](Electronic/House/Modern%20Styles/tropical-house.md)
 
 ### Trance
 
@@ -279,6 +281,7 @@
 - [Gabber](Electronic/Hardcore/gabber.md)
 - [Rotterdam Hardcore](Electronic/Hardcore/rotterdam-hardcore.md)
 - [Industrial Hardcore](Electronic/Hardcore/industrial-hardcore.md)
+- [Terrorcore](Electronic/Hardcore/terrorcore.md)
 - [Speedcore](Electronic/Hardcore/speedcore.md)
 - [Frenchcore](Electronic/Hardcore/frenchcore.md)
 - [Breakcore](Electronic/Hardcore/breakcore.md)
@@ -338,6 +341,12 @@
 - [Dance Pop](Pop/Mainstream%20Pop/dance-pop.md)
 - [Electropop](Pop/Mainstream%20Pop/electropop.md)
 - [Bubblegum Pop](Pop/Mainstream%20Pop/bubblegum-pop.md)
+- [Teen Pop](Pop/Mainstream%20Pop/teen-pop.md)
+- [Hyper Pop](Pop/Mainstream%20Pop/hyper-pop.md)
+
+### K-Pop / J-Pop
+
+- [K-Pop / J-Pop](Pop/K-Pop%20J-Pop/k-pop-j-pop.md)
 
 - [Adult Contemporary](Pop/adult-contemporary.md)
 
@@ -387,6 +396,7 @@
 - [Electro Jazz](Jazz/Fusion%20%26%20Contemporary/electro-jazz.md)
 - [Jazz Rock](Jazz/Fusion%20%26%20Contemporary/jazz-rock.md)
 - [Nu Jazz](Jazz/Fusion%20%26%20Contemporary/nu-jazz.md)
+- [Ethio / World Jazz](Jazz/Fusion%20%26%20Contemporary/ethio-world-jazz.md)
 
 ## Hip-Hop Rap
 
@@ -417,6 +427,7 @@
 - [Neo-Soul](R%26B%20Soul/Modern%20Styles/neo-soul.md)
 - [Quiet Storm](R%26B%20Soul/Modern%20Styles/quiet-storm.md)
 - [Alternative R&B](R%26B%20Soul/Modern%20Styles/alternative-rnb.md)
+- [PBR&B (Post-Dubstep R&B)](R%26B%20Soul/Modern%20Styles/pbrnb.md)
 - [Hip-Hop Soul](R%26B%20Soul/Modern%20Styles/hip-hop-soul.md)
 
 ### Related Styles
