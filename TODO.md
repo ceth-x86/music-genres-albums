@@ -6,23 +6,15 @@
 
 #### Modern Styles
 - Italo House
-- Funky House
 - Tropical House
 
 ### Hardcore
 - Terrorcore
-- Speedcore
 
 ## Pop
 - Teen Pop
 - Hyper Pop
 - K-Pop / J-Pop
-
-## Dark Folk
-- Gothic Americana
-
-## Folk
-- American Folk Revival
 
 ## Jazz
 
@@ -47,7 +39,6 @@
 
 ### Styles
 - Gangsta Rap
-- Jazz Rap
 - Boom Bap
 - Mumble Rap
 - Drill

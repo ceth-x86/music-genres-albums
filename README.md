@@ -251,6 +251,7 @@
 #### Modern Styles
 
 - [Tech House](Electronic/House/Modern%20Styles/tech-house.md)
+- [Funky House](Electronic/House/Modern%20Styles/funky-house.md)
 - [Electro House](Electronic/House/Modern%20Styles/electro-house.md)
 - [Euro House](Electronic/House/Modern%20Styles/euro-house.md)
 - [Bass House](Electronic/House/Modern%20Styles/bass-house.md)
@@ -278,6 +279,7 @@
 - [Gabber](Electronic/Hardcore/gabber.md)
 - [Rotterdam Hardcore](Electronic/Hardcore/rotterdam-hardcore.md)
 - [Industrial Hardcore](Electronic/Hardcore/industrial-hardcore.md)
+- [Speedcore](Electronic/Hardcore/speedcore.md)
 - [Frenchcore](Electronic/Hardcore/frenchcore.md)
 - [Breakcore](Electronic/Hardcore/breakcore.md)
 - [Happy Hardcore](Electronic/Hardcore/happy-hardcore.md)
@@ -348,6 +350,7 @@
 - [Ritual Folk](Dark%20Folk/ritual-folk.md)
 - [Pagan Folk](Dark%20Folk/pagan-folk.md)
 - [Occult Folk](Dark%20Folk/occult-folk.md)
+- [Gothic Americana](Dark%20Folk/gothic-americana.md)
 - [Forest Folk](Dark%20Folk/forest-folk.md)
 - [Psychedelic Dark Folk](Dark%20Folk/psychedelic-dark-folk.md)
 - [Neoclassical Folk](Dark%20Folk/neoclassical-folk.md)
@@ -396,6 +399,7 @@
 
 - [Conscious Hip-Hop](Hip-Hop%20Rap/Styles/conscious-hip-hop.md)
 - [Alternative Hip-Hop](Hip-Hop%20Rap/Styles/alternative-hip-hop.md)
+- [Jazz Rap](Hip-Hop%20Rap/Styles/jazz-rap.md)
 - [Cloud Rap](Hip-Hop%20Rap/Styles/cloud-rap.md)
 - [Industrial Hip-Hop](Hip-Hop%20Rap/Styles/industrial-hip-hop.md)
 - [Underground Hip-Hop](Hip-Hop%20Rap/Styles/underground-hip-hop.md)
