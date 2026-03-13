@@ -278,6 +278,7 @@
 - [Gabber](Electronic/Hardcore/gabber.md)
 - [Rotterdam Hardcore](Electronic/Hardcore/rotterdam-hardcore.md)
 - [Industrial Hardcore](Electronic/Hardcore/industrial-hardcore.md)
+- [Frenchcore](Electronic/Hardcore/frenchcore.md)
 - [Breakcore](Electronic/Hardcore/breakcore.md)
 - [Happy Hardcore](Electronic/Hardcore/happy-hardcore.md)
 - [Digital Hardcore](Electronic/Hardcore/digital-hardcore.md)
@@ -286,6 +287,7 @@
 ### Downtempo
 
 - [Trip-Hop](Electronic/Downtempo/trip-hop.md)
+- [Chillout](Electronic/Downtempo/chillout.md)
 - [Lo-Fi Electronic](Electronic/Downtempo/lo-fi-electronic.md)
 
 ### Experimental Electronic
@@ -346,6 +348,7 @@
 - [Ritual Folk](Dark%20Folk/ritual-folk.md)
 - [Pagan Folk](Dark%20Folk/pagan-folk.md)
 - [Occult Folk](Dark%20Folk/occult-folk.md)
+- [Forest Folk](Dark%20Folk/forest-folk.md)
 - [Psychedelic Dark Folk](Dark%20Folk/psychedelic-dark-folk.md)
 - [Neoclassical Folk](Dark%20Folk/neoclassical-folk.md)
 
@@ -372,20 +375,28 @@
 
 - [Free Jazz](Jazz/Experimental/free-jazz.md)
 - [Avant-Garde Jazz](Jazz/Experimental/avant-garde-jazz.md)
+- [Third Stream](Jazz/Experimental/third-stream.md)
 
 ### Fusion & Contemporary
 
 - [Jazz Fusion](Jazz/Fusion%20%26%20Contemporary/jazz-fusion.md)
 - [Acid Jazz](Jazz/Fusion%20%26%20Contemporary/acid-jazz.md)
+- [Electro Jazz](Jazz/Fusion%20%26%20Contemporary/electro-jazz.md)
 - [Jazz Rock](Jazz/Fusion%20%26%20Contemporary/jazz-rock.md)
 - [Nu Jazz](Jazz/Fusion%20%26%20Contemporary/nu-jazz.md)
 
 ## Hip-Hop Rap
 
+### Eras
+
+- [Old School Hip-Hop](Hip-Hop%20Rap/Eras/old-school-hip-hop.md)
+- [Golden Age Hip-Hop](Hip-Hop%20Rap/Eras/golden-age-hip-hop.md)
+
 ### Styles
 
 - [Conscious Hip-Hop](Hip-Hop%20Rap/Styles/conscious-hip-hop.md)
 - [Alternative Hip-Hop](Hip-Hop%20Rap/Styles/alternative-hip-hop.md)
+- [Cloud Rap](Hip-Hop%20Rap/Styles/cloud-rap.md)
 - [Industrial Hip-Hop](Hip-Hop%20Rap/Styles/industrial-hip-hop.md)
 - [Underground Hip-Hop](Hip-Hop%20Rap/Styles/underground-hip-hop.md)
 - [Experimental Hip-Hop](Hip-Hop%20Rap/Styles/experimental-hip-hop.md)
@@ -402,10 +413,14 @@
 - [Neo-Soul](R%26B%20Soul/Modern%20Styles/neo-soul.md)
 - [Quiet Storm](R%26B%20Soul/Modern%20Styles/quiet-storm.md)
 - [Alternative R&B](R%26B%20Soul/Modern%20Styles/alternative-rnb.md)
+- [Hip-Hop Soul](R%26B%20Soul/Modern%20Styles/hip-hop-soul.md)
 
 ### Related Styles
 
+- [Funk](R%26B%20Soul/Related%20Styles/funk.md)
+- [Psychedelic Soul](R%26B%20Soul/Related%20Styles/psychedelic-soul.md)
 - [Blue-Eyed Soul](R%26B%20Soul/Related%20Styles/blue-eyed-soul.md)
+- [Gospel](R%26B%20Soul/Related%20Styles/gospel.md)
 
 #### Disco
 

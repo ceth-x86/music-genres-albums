@@ -13,9 +13,6 @@
 - Terrorcore
 - Speedcore
 
-### Downtempo
-- Chillout
-
 ## Pop
 - Teen Pop
 - Hyper Pop
@@ -39,10 +36,6 @@
 
 ## Hip-Hop Rap
 
-### Eras
-- Old School Hip-Hop
-- Golden Age Hip-Hop
-
 ### Regional
 - East Coast Hip-Hop
 - West Coast Hip-Hop
@@ -57,7 +50,6 @@
 - Jazz Rap
 - Boom Bap
 - Mumble Rap
-- Cloud Rap
 - Drill
 - Lo-Fi Hip-Hop
 - Horrorcore
@@ -77,6 +69,3 @@
 - Smooth R&B
 - PBR&B (Post-Dubstep R&B)
 
-### Related Styles
-- Psychedelic Soul
-- Gospel
