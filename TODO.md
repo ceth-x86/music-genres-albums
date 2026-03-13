@@ -4,22 +4,14 @@
 
 ### House
 
-#### Deep & Soulful
-- Soulful House
-- Afro House
-
 #### Modern Styles
 - Italo House
 - Funky House
-- Lo Fi House
 - Tropical House
 
 ### Hardcore
-- Gabber
-- Industrial Hardcore
 - Terrorcore
 - Speedcore
-- Frenchcore
 
 ### Downtempo
 - Chillout
@@ -31,7 +23,6 @@
 
 ## Dark Folk
 - Gothic Americana
-- Forest Folk
 
 ## Folk
 - American Folk Revival
@@ -41,15 +32,10 @@
 ### Traditional
 - Dixieland Jazz
 
-### Experimental
-- Third Stream
-
 ### Fusion & Contemporary
-- Electro Jazz
 - Jazz Funk
 - Spiritual Jazz
 - Smooth Jazz
-- Ethio / World Jazz
 
 ## Hip-Hop Rap
 
@@ -90,9 +76,7 @@
 - New Jack Swing
 - Smooth R&B
 - PBR&B (Post-Dubstep R&B)
-- Hip-Hop Soul
 
 ### Related Styles
-- Funk
 - Psychedelic Soul
 - Gospel

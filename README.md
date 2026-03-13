@@ -62,6 +62,7 @@
 - [Youth Crew](Punk/Hardcore%20Punk/youth-crew.md)
 - [Melodic Hardcore](Punk/Hardcore%20Punk/melodic-hardcore.md)
 - [Crust Punk](Punk/Hardcore%20Punk/crust-punk.md)
+- [Grindcore](Punk/Hardcore%20Punk/grindcore.md)
 - [Mathcore](Punk/Hardcore%20Punk/mathcore.md)
 
 #### Post Hardcore
@@ -243,16 +244,22 @@
 #### Deep & Soulful
 
 - [Deep House](Electronic/House/Deep%20%26%20Soulful/deep-house.md)
+- [Soulful House](Electronic/House/Deep%20%26%20Soulful/soulful-house.md)
+- [Afro House](Electronic/House/Deep%20%26%20Soulful/afro-house.md)
+- [Tribal House](Electronic/House/Deep%20%26%20Soulful/tribal-house.md)
 
 #### Modern Styles
 
 - [Tech House](Electronic/House/Modern%20Styles/tech-house.md)
 - [Electro House](Electronic/House/Modern%20Styles/electro-house.md)
 - [Euro House](Electronic/House/Modern%20Styles/euro-house.md)
+- [Bass House](Electronic/House/Modern%20Styles/bass-house.md)
 - [Progressive House](Electronic/House/Modern%20Styles/progressive-house.md)
 - [Melodic House](Electronic/House/Modern%20Styles/melodic-house.md)
 - [Minimal House](Electronic/House/Modern%20Styles/minimal-house.md)
 - [Future House](Electronic/House/Modern%20Styles/future-house.md)
+- [Lo-Fi House](Electronic/House/Modern%20Styles/lo-fi-house.md)
+- [Ghetto House](Electronic/House/Modern%20Styles/ghetto-house.md)
 
 ### Trance
 
@@ -268,9 +275,12 @@
 
 ### Hardcore
 
+- [Gabber](Electronic/Hardcore/gabber.md)
 - [Rotterdam Hardcore](Electronic/Hardcore/rotterdam-hardcore.md)
+- [Industrial Hardcore](Electronic/Hardcore/industrial-hardcore.md)
 - [Breakcore](Electronic/Hardcore/breakcore.md)
 - [Happy Hardcore](Electronic/Hardcore/happy-hardcore.md)
+- [Digital Hardcore](Electronic/Hardcore/digital-hardcore.md)
 - [Mainstream Hardcore](Electronic/Hardcore/mainstream-hardcore.md)
 
 ### Downtempo
@@ -304,6 +314,7 @@
 ### Fusion Styles
 
 - [Industrial Rock](Industrial/Fusion%20Styles/industrial-rock.md)
+- [Electroclash](Industrial/Fusion%20Styles/electroclash.md)
 
 ### Thematic
 
@@ -365,6 +376,7 @@
 ### Fusion & Contemporary
 
 - [Jazz Fusion](Jazz/Fusion%20%26%20Contemporary/jazz-fusion.md)
+- [Acid Jazz](Jazz/Fusion%20%26%20Contemporary/acid-jazz.md)
 - [Jazz Rock](Jazz/Fusion%20%26%20Contemporary/jazz-rock.md)
 - [Nu Jazz](Jazz/Fusion%20%26%20Contemporary/nu-jazz.md)
 
@@ -372,6 +384,7 @@
 
 ### Styles
 
+- [Conscious Hip-Hop](Hip-Hop%20Rap/Styles/conscious-hip-hop.md)
 - [Alternative Hip-Hop](Hip-Hop%20Rap/Styles/alternative-hip-hop.md)
 - [Industrial Hip-Hop](Hip-Hop%20Rap/Styles/industrial-hip-hop.md)
 - [Underground Hip-Hop](Hip-Hop%20Rap/Styles/underground-hip-hop.md)
@@ -386,10 +399,13 @@
 ### Modern Styles
 
 - [Contemporary R&B](R%26B%20Soul/Modern%20Styles/contemporary-rnb.md)
+- [Neo-Soul](R%26B%20Soul/Modern%20Styles/neo-soul.md)
 - [Quiet Storm](R%26B%20Soul/Modern%20Styles/quiet-storm.md)
 - [Alternative R&B](R%26B%20Soul/Modern%20Styles/alternative-rnb.md)
 
 ### Related Styles
+
+- [Blue-Eyed Soul](R%26B%20Soul/Related%20Styles/blue-eyed-soul.md)
 
 #### Disco
 
