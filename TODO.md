@@ -2,11 +2,7 @@
 
 ## Jazz
 
-### Traditional
-- Dixieland Jazz
-
 ### Fusion & Contemporary
-- Jazz Funk
 - Spiritual Jazz
 - Smooth Jazz
 
@@ -17,9 +13,6 @@
 - West Coast Hip-Hop
 - Southern Hip-Hop
 - G-Funk
-- UK Hip-Hop / Grime
-- French Hip-Hop
-- Latin Hip-Hop
 
 ### Styles
 - Gangsta Rap
@@ -35,7 +28,6 @@
 ### Classic Styles
 - Motown
 - Southern Soul
-- Memphis Soul
 - Philadelphia Soul
 - Northern Soul
 

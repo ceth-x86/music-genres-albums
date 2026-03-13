@@ -373,6 +373,7 @@
 
 ### Traditional
 
+- [Dixieland Jazz](Jazz/Traditional/dixieland-jazz.md)
 - [Swing Jazz](Jazz/Traditional/swing-jazz.md)
 
 ### Modernist
@@ -396,6 +397,7 @@
 - [Electro Jazz](Jazz/Fusion%20%26%20Contemporary/electro-jazz.md)
 - [Jazz Rock](Jazz/Fusion%20%26%20Contemporary/jazz-rock.md)
 - [Nu Jazz](Jazz/Fusion%20%26%20Contemporary/nu-jazz.md)
+- [Jazz Funk](Jazz/Fusion%20%26%20Contemporary/jazz-funk.md)
 - [Ethio / World Jazz](Jazz/Fusion%20%26%20Contemporary/ethio-world-jazz.md)
 
 ## Hip-Hop Rap
@@ -404,6 +406,12 @@
 
 - [Old School Hip-Hop](Hip-Hop%20Rap/Eras/old-school-hip-hop.md)
 - [Golden Age Hip-Hop](Hip-Hop%20Rap/Eras/golden-age-hip-hop.md)
+
+### Regional
+
+- [UK Hip-Hop / Grime](Hip-Hop%20Rap/Regional/uk-hip-hop-grime.md)
+- [French Hip-Hop](Hip-Hop%20Rap/Regional/french-hip-hop.md)
+- [Latin Hip-Hop](Hip-Hop%20Rap/Regional/latin-hip-hop.md)
 
 ### Styles
 
@@ -420,6 +428,7 @@
 ### Classic Styles
 
 - [Classic Soul](R%26B%20Soul/Classic%20Styles/classic-soul.md)
+- [Memphis Soul](R%26B%20Soul/Classic%20Styles/memphis-soul.md)
 
 ### Modern Styles
 
