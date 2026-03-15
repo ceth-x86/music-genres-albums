@@ -443,6 +443,7 @@
 
 - [Classic Soul](R%26B%20Soul/Classic%20Styles/classic-soul.md)
 - [Motown](R%26B%20Soul/Classic%20Styles/motown.md)
+- [Southern Soul](R%26B%20Soul/Classic%20Styles/southern-soul.md)
 - [Memphis Soul](R%26B%20Soul/Classic%20Styles/memphis-soul.md)
 - [Philadelphia Soul](R%26B%20Soul/Classic%20Styles/philadelphia-soul.md)
 - [Northern Soul](R%26B%20Soul/Classic%20Styles/northern-soul.md)
