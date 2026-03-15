@@ -368,6 +368,7 @@
 
 - [Traditional Folk](Folk/traditional-folk.md)
 - [Contemporary Folk](Folk/contemporary-folk.md)
+- [American Folk Revival](Folk/american-folk-revival.md)
 
 ## Jazz
 
@@ -398,6 +399,8 @@
 - [Jazz Rock](Jazz/Fusion%20%26%20Contemporary/jazz-rock.md)
 - [Nu Jazz](Jazz/Fusion%20%26%20Contemporary/nu-jazz.md)
 - [Jazz Funk](Jazz/Fusion%20%26%20Contemporary/jazz-funk.md)
+- [Spiritual Jazz](Jazz/Fusion%20%26%20Contemporary/spiritual-jazz.md)
+- [Smooth Jazz](Jazz/Fusion%20%26%20Contemporary/smooth-jazz.md)
 - [Ethio / World Jazz](Jazz/Fusion%20%26%20Contemporary/ethio-world-jazz.md)
 
 ## Hip-Hop Rap
@@ -409,17 +412,26 @@
 
 ### Regional
 
+- [East Coast Hip-Hop](Hip-Hop%20Rap/Regional/east-coast-hip-hop.md)
+- [West Coast Hip-Hop](Hip-Hop%20Rap/Regional/west-coast-hip-hop.md)
+- [Southern Hip-Hop](Hip-Hop%20Rap/Regional/southern-hip-hop.md)
+- [G-Funk](Hip-Hop%20Rap/Regional/g-funk.md)
 - [UK Hip-Hop / Grime](Hip-Hop%20Rap/Regional/uk-hip-hop-grime.md)
 - [French Hip-Hop](Hip-Hop%20Rap/Regional/french-hip-hop.md)
 - [Latin Hip-Hop](Hip-Hop%20Rap/Regional/latin-hip-hop.md)
 
 ### Styles
 
+- [Gangsta Rap](Hip-Hop%20Rap/Styles/gangsta-rap.md)
 - [Conscious Hip-Hop](Hip-Hop%20Rap/Styles/conscious-hip-hop.md)
 - [Alternative Hip-Hop](Hip-Hop%20Rap/Styles/alternative-hip-hop.md)
 - [Jazz Rap](Hip-Hop%20Rap/Styles/jazz-rap.md)
+- [Boom Bap](Hip-Hop%20Rap/Styles/boom-bap.md)
 - [Cloud Rap](Hip-Hop%20Rap/Styles/cloud-rap.md)
+- [Lo-Fi Hip-Hop](Hip-Hop%20Rap/Styles/lo-fi-hip-hop.md)
 - [Industrial Hip-Hop](Hip-Hop%20Rap/Styles/industrial-hip-hop.md)
+- [Horrorcore](Hip-Hop%20Rap/Styles/horrorcore.md)
+- [Christian Hip-Hop](Hip-Hop%20Rap/Styles/christian-hip-hop.md)
 - [Underground Hip-Hop](Hip-Hop%20Rap/Styles/underground-hip-hop.md)
 - [Experimental Hip-Hop](Hip-Hop%20Rap/Styles/experimental-hip-hop.md)
 
@@ -428,14 +440,19 @@
 ### Classic Styles
 
 - [Classic Soul](R%26B%20Soul/Classic%20Styles/classic-soul.md)
+- [Motown](R%26B%20Soul/Classic%20Styles/motown.md)
 - [Memphis Soul](R%26B%20Soul/Classic%20Styles/memphis-soul.md)
+- [Philadelphia Soul](R%26B%20Soul/Classic%20Styles/philadelphia-soul.md)
+- [Northern Soul](R%26B%20Soul/Classic%20Styles/northern-soul.md)
 
 ### Modern Styles
 
 - [Contemporary R&B](R%26B%20Soul/Modern%20Styles/contemporary-rnb.md)
 - [Neo-Soul](R%26B%20Soul/Modern%20Styles/neo-soul.md)
+- [New Jack Swing](R%26B%20Soul/Modern%20Styles/new-jack-swing.md)
 - [Quiet Storm](R%26B%20Soul/Modern%20Styles/quiet-storm.md)
 - [Alternative R&B](R%26B%20Soul/Modern%20Styles/alternative-rnb.md)
+- [Smooth R&B](R%26B%20Soul/Modern%20Styles/smooth-rnb.md)
 - [PBR&B (Post-Dubstep R&B)](R%26B%20Soul/Modern%20Styles/pbrnb.md)
 - [Hip-Hop Soul](R%26B%20Soul/Modern%20Styles/hip-hop-soul.md)
 
